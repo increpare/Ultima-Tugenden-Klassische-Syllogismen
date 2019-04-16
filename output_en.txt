@@ -1,0 +1,1273 @@
+All justice is honesty.
+All spirituality is justice.
+So all spirituality is honesty.
+
+All justice is compassion.
+All spirituality is justice.
+So all spirituality is compassion.
+
+All honor is honesty.
+All spirituality is honor.
+So all spirituality is honesty.
+
+All honor is bravery.
+All spirituality is honor.
+So all spirituality is bravery.
+
+All sacrifice is compassion.
+All spirituality is sacrifice.
+So all spirituality is compassion.
+
+All sacrifice is bravery.
+All spirituality is sacrifice.
+So all spirituality is bravery.
+
+No honesty is bravery.
+All justice is honesty.
+So no justice is bravery.
+
+No honesty is compassion.
+All honor is honesty.
+So no honor is compassion.
+
+No compassion is bravery.
+All justice is compassion.
+So no justice is bravery.
+
+No compassion is honesty.
+All sacrifice is compassion.
+So no sacrifice is honesty.
+
+No bravery is compassion.
+All honor is bravery.
+So no honor is compassion.
+
+No bravery is honesty.
+All sacrifice is bravery.
+So no sacrifice is honesty.
+
+All spirituality is justice.
+Some honesty is spirituality.
+So some honesty is justice.
+
+All spirituality is honor.
+Some honesty is spirituality.
+So some honesty is honor.
+
+All spirituality is justice.
+Some compassion is spirituality.
+So some compassion is justice.
+
+All spirituality is sacrifice.
+Some compassion is spirituality.
+So some compassion is sacrifice.
+
+All spirituality is honor.
+Some bravery is spirituality.
+So some bravery is honor.
+
+All spirituality is sacrifice.
+Some bravery is spirituality.
+So some bravery is sacrifice.
+
+All spirituality is honor.
+Some justice is spirituality.
+So some justice is honor.
+
+All spirituality is sacrifice.
+Some justice is spirituality.
+So some justice is sacrifice.
+
+All spirituality is justice.
+Some honor is spirituality.
+So some honor is justice.
+
+All spirituality is sacrifice.
+Some honor is spirituality.
+So, some honor is sacrifice.
+
+All spirituality is justice.
+Some sacrifice is spirituality.
+So, some sacrifice is justice.
+
+All spirituality is honor.
+Some sacrifice is spirituality.
+So some sacrifice is honor.
+
+No justice is bravery.
+Some honor is justice.
+So some honor is not bravery.
+
+No justice is bravery.
+Some sacrifice is justice.
+So some sacrifice is not bravery.
+
+No honor is compassion.
+Some justice is honor.
+So some justice is not compassion.
+
+No honor is compassion.
+Some sacrifice is honor.
+So some sacrifice is not compassion.
+
+No sacrifice is honesty.
+Some justice is sacrifice.
+So some justice is not honesty.
+
+No sacrifice is honesty.
+Some honor is sacrifice.
+So some honor is not honesty.
+
+No honesty is compassion.
+All justice is honesty.
+So some justice is not compassion.
+
+No honesty is sacrifice.
+All justice is honesty.
+So some justice is not sacrifice.
+
+No honesty is bravery.
+All honor is honesty.
+So some honor is not bravery.
+
+No honesty is sacrifice.
+All honor is honesty.
+So some honor is not sacrifice.
+
+No honesty is compassion.
+All spirituality is honesty.
+So some spirituality is not compassion.
+
+No honesty is bravery.
+All spirituality is honesty.
+So some spirituality is not bravery.
+
+No honesty is sacrifice.
+All spirituality is honesty.
+So some spirituality is not sacrifice.
+
+No compassion is honesty.
+All justice is compassion.
+So some justice is not honesty.
+
+No compassion is honor.
+All justice is compassion.
+So some justice is not honor.
+
+No compassion is bravery.
+All sacrifice is compassion.
+So some sacrifice is not bravery.
+
+No compassion is honor.
+All sacrifice is compassion.
+So some sacrifice is not honor.
+
+No compassion is honesty.
+All spirituality is compassion.
+So some spirituality is not honesty.
+
+No compassion is bravery.
+All spirituality is compassion.
+So some spirituality is not bravery.
+
+No compassion is honor.
+All spirituality is compassion.
+So some spirituality is not honor.
+
+No bravery is honesty.
+All honor is bravery.
+So some honor is not honesty.
+
+No bravery is justice.
+All honor is bravery.
+So some honor is not justice.
+
+No bravery is compassion.
+All sacrifice is bravery.
+So some sacrifice is not compassion.
+
+No bravery is justice.
+All sacrifice is bravery.
+So some sacrifice is not justice.
+
+No bravery is honesty.
+All spirituality is bravery.
+So some spirituality is not honesty.
+
+No bravery is compassion.
+All spirituality is bravery.
+So some spirituality is not compassion.
+
+No bravery is justice.
+All spirituality is bravery.
+So some spirituality is not justice.
+
+No justice is bravery.
+All spirituality is justice.
+So some spirituality is not bravery.
+
+No honor is compassion.
+All spirituality is honor.
+So some spirituality is not compassion.
+
+No sacrifice is honesty.
+All spirituality is sacrifice.
+So some spirituality is not honesty.
+
+No bravery is honesty.
+All justice is honesty.
+So no justice is bravery.
+
+No compassion is honesty.
+All honor is honesty.
+So no honor is compassion.
+
+No bravery is compassion.
+All justice is compassion.
+So no justice is bravery.
+
+No honesty is compassion.
+All sacrifice is compassion.
+So no sacrifice is honesty.
+
+No compassion is bravery.
+All honor is bravery.
+So no honor is compassion.
+
+No honesty is bravery.
+All sacrifice is bravery.
+So no sacrifice is honesty.
+
+All honor is honesty.
+No compassion is honesty.
+So no compassion is honor.
+
+All justice is honesty.
+No bravery is honesty.
+So no bravery is justice.
+
+All sacrifice is compassion.
+No honesty is compassion.
+So no honesty is sacrifice.
+
+All justice is compassion.
+No bravery is compassion.
+So no bravery is justice.
+
+All sacrifice is bravery.
+No honesty is bravery.
+So no honesty is sacrifice.
+
+All honor is bravery.
+No compassion is bravery.
+So no compassion is honor.
+
+No bravery is justice.
+Some honor is justice.
+So some honor is not bravery.
+
+No bravery is justice.
+Some sacrifice is justice.
+So some sacrifice is not bravery.
+
+No compassion is honor.
+Some justice is honor.
+So some justice is not compassion.
+
+No compassion is honor.
+Some sacrifice is honor.
+So some sacrifice is not compassion.
+
+No honesty is sacrifice.
+Some justice is sacrifice.
+So some justice is not honesty.
+
+No honesty is sacrifice.
+Some honor is sacrifice.
+So some honor is not honesty.
+
+All honor is honesty.
+Some justice is not honesty.
+So some justice is not honor.
+
+All spirituality is honesty.
+Some justice is not honesty.
+So some justice is not spirituality.
+
+All justice is honesty.
+Some honor is not honesty.
+So some honor is not justice.
+
+All spirituality is honesty.
+Some honor is not honesty.
+So some honor is not spirituality.
+
+All justice is honesty.
+Some spirituality is not honesty.
+So some spirituality is not justice.
+
+All honor is honesty.
+Some spirituality is not honesty.
+So some spirituality is not honor.
+
+All sacrifice is compassion.
+Some justice is not compassion.
+So some justice is not sacrifice.
+
+All spirituality is compassion.
+Some justice is not compassion.
+So some justice is not spirituality.
+
+All justice is compassion.
+Some sacrifice is not compassion.
+So some sacrifice is not justice.
+
+All spirituality is compassion.
+Some sacrifice is not compassion.
+So some sacrifice is not spirituality.
+
+All justice is compassion.
+Some spirituality is not compassion.
+So some spirituality is not justice.
+
+All sacrifice is compassion.
+Some spirituality is not compassion.
+So some spirituality is not sacrifice.
+
+All sacrifice is bravery.
+Some honor is not bravery.
+So some honor is not sacrifice.
+
+All spirituality is bravery.
+Some honor is not bravery.
+So some honor is not spirituality.
+
+All honor is bravery.
+Some sacrifice is not bravery.
+So some sacrifice is not honor.
+
+All spirituality is bravery.
+Some sacrifice is not bravery.
+So some sacrifice is not spirituality.
+
+All honor is bravery.
+Some spirituality is not bravery.
+So some spirituality is not honor.
+
+All sacrifice is bravery.
+Some spirituality is not bravery.
+So some spirituality is not sacrifice.
+
+All spirituality is justice.
+Some honesty is not justice.
+So some honesty is not spirituality.
+
+All spirituality is justice.
+Some compassion is not justice.
+So some compassion is not spirituality.
+
+All spirituality is justice.
+Some honor is not justice.
+So some honor is not spirituality.
+
+All spirituality is justice.
+Some sacrifice is not justice.
+So some sacrifice is not spirituality.
+
+All spirituality is honor.
+Some honesty is not honor.
+So some honesty is not spirituality.
+
+All spirituality is honor.
+Some bravery is not honor.
+So, some bravery is not spirituality.
+
+All spirituality is honor.
+Some justice is not honor.
+So some justice is not spirituality.
+
+All spirituality is honor.
+Some sacrifice is not honor.
+So some sacrifice is not spirituality.
+
+All spirituality is sacrifice.
+Some compassion is not sacrifice.
+So some compassion is not spirituality.
+
+All spirituality is sacrifice.
+Some bravery is not sacrifice.
+So, some bravery is not spirituality.
+
+All spirituality is sacrifice.
+Some justice is not sacrifice.
+So some justice is not spirituality.
+
+All spirituality is sacrifice.
+Some honor is not sacrifice.
+So some honor is not spirituality.
+
+No compassion is honesty.
+All justice is honesty.
+So some justice is not compassion.
+
+No sacrifice is honesty.
+All justice is honesty.
+So some justice is not sacrifice.
+
+No bravery is honesty.
+All honor is honesty.
+So some honor is not bravery.
+
+No sacrifice is honesty.
+All honor is honesty.
+So some honor is not sacrifice.
+
+No compassion is honesty.
+All spirituality is honesty.
+So some spirituality is not compassion.
+
+No bravery is honesty.
+All spirituality is honesty.
+So some spirituality is not bravery.
+
+No sacrifice is honesty.
+All spirituality is honesty.
+So some spirituality is not sacrifice.
+
+No honesty is compassion.
+All justice is compassion.
+So some justice is not honesty.
+
+No honor is compassion.
+All justice is compassion.
+So some justice is not honor.
+
+No bravery is compassion.
+All sacrifice is compassion.
+So some sacrifice is not bravery.
+
+No honor is compassion.
+All sacrifice is compassion.
+So some sacrifice is not honor.
+
+No honesty is compassion.
+All spirituality is compassion.
+So some spirituality is not honesty.
+
+No bravery is compassion.
+All spirituality is compassion.
+So some spirituality is not bravery.
+
+No honor is compassion.
+All spirituality is compassion.
+So some spirituality is not honor.
+
+No honesty is bravery.
+All honor is bravery.
+So some honor is not honesty.
+
+No justice is bravery.
+All honor is bravery.
+So some honor is not justice.
+
+No compassion is bravery.
+All sacrifice is bravery.
+So some sacrifice is not compassion.
+
+No justice is bravery.
+All sacrifice is bravery.
+So some sacrifice is not justice.
+
+No honesty is bravery.
+All spirituality is bravery.
+So some spirituality is not honesty.
+
+No compassion is bravery.
+All spirituality is bravery.
+So some spirituality is not compassion.
+
+No justice is bravery.
+All spirituality is bravery.
+So some spirituality is not justice.
+
+No bravery is justice.
+All spirituality is justice.
+So some spirituality is not bravery.
+
+No compassion is honor.
+All spirituality is honor.
+So some spirituality is not compassion.
+
+No honesty is sacrifice.
+All spirituality is sacrifice.
+So some spirituality is not honesty.
+
+All justice is honesty.
+No compassion is honesty.
+So some compassion is not justice.
+
+All spirituality is honesty.
+No compassion is honesty.
+So some compassion is not spirituality.
+
+All honor is honesty.
+No bravery is honesty.
+So some bravery is not honor.
+
+All spirituality is honesty.
+No bravery is honesty.
+So, some bravery is not spirituality.
+
+All justice is honesty.
+No sacrifice is honesty.
+So some sacrifice is not justice.
+
+All honor is honesty.
+No sacrifice is honesty.
+So some sacrifice is not honor.
+
+All spirituality is honesty.
+No sacrifice is honesty.
+So some sacrifice is not spirituality.
+
+All justice is compassion.
+No honesty is compassion.
+So some honesty is not justice.
+
+All spirituality is compassion.
+No honesty is compassion.
+So some honesty is not spirituality.
+
+All sacrifice is compassion.
+No bravery is compassion.
+So, some bravery is not sacrifice.
+
+All spirituality is compassion.
+No bravery is compassion.
+So, some bravery is not spirituality.
+
+All justice is compassion.
+No honor is compassion.
+So some honor is not justice.
+
+All sacrifice is compassion.
+No honor is compassion.
+So some honor is not sacrifice.
+
+All spirituality is compassion.
+No honor is compassion.
+So some honor is not spirituality.
+
+All honor is bravery.
+No honesty is bravery.
+So some honesty is not honor.
+
+All spirituality is bravery.
+No honesty is bravery.
+So some honesty is not spirituality.
+
+All sacrifice is bravery.
+No compassion is bravery.
+So some compassion is not sacrifice.
+
+All spirituality is bravery.
+No compassion is bravery.
+So some compassion is not spirituality.
+
+All honor is bravery.
+No justice is bravery.
+So some justice is not honor.
+
+All sacrifice is bravery.
+No justice is bravery.
+So some justice is not sacrifice.
+
+All spirituality is bravery.
+No justice is bravery.
+So some justice is not spirituality.
+
+All spirituality is justice.
+No bravery is justice.
+So, some bravery is not spirituality.
+
+All spirituality is honor.
+No compassion is honor.
+So some compassion is not spirituality.
+
+All spirituality is sacrifice.
+No honesty is sacrifice.
+So some honesty is not spirituality.
+
+Some justice is honor.
+All justice is honesty.
+So some honesty is honor.
+
+Some justice is spirituality.
+All justice is honesty.
+So some honesty is spirituality.
+
+Some justice is sacrifice.
+All justice is compassion.
+So some compassion is sacrifice.
+
+Some justice is spirituality.
+All justice is compassion.
+So some compassion is spirituality.
+
+Some honor is justice.
+All honor is honesty.
+So some honesty is justice.
+
+Some honor is spirituality.
+All honor is honesty.
+So some honesty is spirituality.
+
+Some honor is sacrifice.
+All honor is bravery.
+So some bravery is sacrifice.
+
+Some honor is spirituality.
+All honor is bravery.
+So some bravery is spirituality.
+
+Some sacrifice is justice.
+All sacrifice is compassion.
+So some compassion is justice.
+
+Some sacrifice is spirituality.
+All sacrifice is compassion.
+So some compassion is spirituality.
+
+Some sacrifice is honor.
+All sacrifice is bravery.
+So some bravery is honor.
+
+Some sacrifice is spirituality.
+All sacrifice is bravery.
+So some bravery is spirituality.
+
+No honesty is compassion.
+Some honesty is justice.
+So some justice is not compassion.
+
+No honesty is sacrifice.
+Some honesty is justice.
+So some justice is not sacrifice.
+
+No honesty is bravery.
+Some honesty is honor.
+So some honor is not bravery.
+
+No honesty is sacrifice.
+Some honesty is honor.
+So some honor is not sacrifice.
+
+No honesty is compassion.
+Some honesty is spirituality.
+So some spirituality is not compassion.
+
+No honesty is bravery.
+Some honesty is spirituality.
+So some spirituality is not bravery.
+
+No honesty is sacrifice.
+Some honesty is spirituality.
+So some spirituality is not sacrifice.
+
+No compassion is honesty.
+Some compassion is justice.
+So some justice is not honesty.
+
+No compassion is honor.
+Some compassion is justice.
+So some justice is not honor.
+
+No compassion is bravery.
+Some compassion is sacrifice.
+So some sacrifice is not bravery.
+
+No compassion is honor.
+Some compassion is sacrifice.
+So some sacrifice is not honor.
+
+No compassion is honesty.
+Some compassion is spirituality.
+So some spirituality is not honesty.
+
+No compassion is bravery.
+Some compassion is spirituality.
+So some spirituality is not bravery.
+
+No compassion is honor.
+Some compassion is spirituality.
+So some spirituality is not honor.
+
+No bravery is honesty.
+Some bravery is honor.
+So some honor is not honesty.
+
+No bravery is justice.
+Some bravery is honor.
+So some honor is not justice.
+
+No bravery is compassion.
+Some bravery is sacrifice.
+So some sacrifice is not compassion.
+
+No bravery is justice.
+Some bravery is sacrifice.
+So some sacrifice is not justice.
+
+No bravery is honesty.
+Some bravery is spirituality.
+So some spirituality is not honesty.
+
+No bravery is compassion.
+Some bravery is spirituality.
+So some spirituality is not compassion.
+
+No bravery is justice.
+Some bravery is spirituality.
+So some spirituality is not justice.
+
+No justice is bravery.
+Some justice is honor.
+So some honor is not bravery.
+
+No justice is bravery.
+Some justice is sacrifice.
+So some sacrifice is not bravery.
+
+No justice is bravery.
+Some justice is spirituality.
+So some spirituality is not bravery.
+
+No honor is compassion.
+Some honor is justice.
+So some justice is not compassion.
+
+No honor is compassion.
+Some honor is sacrifice.
+So some sacrifice is not compassion.
+
+No honor is compassion.
+Some honor is spirituality.
+So some spirituality is not compassion.
+
+No sacrifice is honesty.
+Some sacrifice is justice.
+So some justice is not honesty.
+
+No sacrifice is honesty.
+Some sacrifice is honor.
+So some honor is not honesty.
+
+No sacrifice is honesty.
+Some sacrifice is spirituality.
+So some spirituality is not honesty.
+
+Some justice is not honor.
+All justice is honesty.
+So some honesty is not honor.
+
+Some justice is not spirituality.
+All justice is honesty.
+So some honesty is not spirituality.
+
+Some justice is not sacrifice.
+All justice is compassion.
+So some compassion is not sacrifice.
+
+Some justice is not spirituality.
+All justice is compassion.
+So some compassion is not spirituality.
+
+Some honor is not justice.
+All honor is honesty.
+So some honesty is not justice.
+
+Some honor is not spirituality.
+All honor is honesty.
+So some honesty is not spirituality.
+
+Some honor is not sacrifice.
+All honor is bravery.
+So, some bravery is not sacrifice.
+
+Some honor is not spirituality.
+All honor is bravery.
+So, some bravery is not spirituality.
+
+Some sacrifice is not justice.
+All sacrifice is compassion.
+So some compassion is not justice.
+
+Some sacrifice is not spirituality.
+All sacrifice is compassion.
+So some compassion is not spirituality.
+
+Some sacrifice is not honor.
+All sacrifice is bravery.
+So some bravery is not honor.
+
+Some sacrifice is not spirituality.
+All sacrifice is bravery.
+So, some bravery is not spirituality.
+
+Some spirituality is not justice.
+All spirituality is honesty.
+So some honesty is not justice.
+
+Some spirituality is not honor.
+All spirituality is honesty.
+So some honesty is not honor.
+
+Some spirituality is not justice.
+All spirituality is compassion.
+So some compassion is not justice.
+
+Some spirituality is not sacrifice.
+All spirituality is compassion.
+So some compassion is not sacrifice.
+
+Some spirituality is not honor.
+All spirituality is bravery.
+So some bravery is not honor.
+
+Some spirituality is not sacrifice.
+All spirituality is bravery.
+So, some bravery is not sacrifice.
+
+Some spirituality is not honesty.
+All spirituality is justice.
+So some justice is not honesty.
+
+Some spirituality is not compassion.
+All spirituality is justice.
+So some justice is not compassion.
+
+Some spirituality is not honor.
+All spirituality is justice.
+So some justice is not honor.
+
+Some spirituality is not sacrifice.
+All spirituality is justice.
+So some justice is not sacrifice.
+
+Some spirituality is not honesty.
+All spirituality is honor.
+So some honor is not honesty.
+
+Some spirituality is not bravery.
+All spirituality is honor.
+So some honor is not bravery.
+
+Some spirituality is not justice.
+All spirituality is honor.
+So some honor is not justice.
+
+Some spirituality is not sacrifice.
+All spirituality is honor.
+So some honor is not sacrifice.
+
+Some spirituality is not compassion.
+All spirituality is sacrifice.
+So some sacrifice is not compassion.
+
+Some spirituality is not bravery.
+All spirituality is sacrifice.
+So some sacrifice is not bravery.
+
+Some spirituality is not justice.
+All spirituality is sacrifice.
+So some sacrifice is not justice.
+
+Some spirituality is not honor.
+All spirituality is sacrifice.
+So some sacrifice is not honor.
+
+All spirituality is justice.
+All spirituality is honesty.
+So some honesty is justice.
+
+All spirituality is honor.
+All spirituality is honesty.
+So some honesty is honor.
+
+All spirituality is justice.
+All spirituality is compassion.
+So some compassion is justice.
+
+All spirituality is sacrifice.
+All spirituality is compassion.
+So some compassion is sacrifice.
+
+All spirituality is honor.
+All spirituality is bravery.
+So some bravery is honor.
+
+All spirituality is sacrifice.
+All spirituality is bravery.
+So some bravery is sacrifice.
+
+All spirituality is honor.
+All spirituality is justice.
+So some justice is honor.
+
+All spirituality is sacrifice.
+All spirituality is justice.
+So some justice is sacrifice.
+
+All spirituality is justice.
+All spirituality is honor.
+So some honor is justice.
+
+All spirituality is sacrifice.
+All spirituality is honor.
+So, some honor is sacrifice.
+
+All spirituality is justice.
+All spirituality is sacrifice.
+So, some sacrifice is justice.
+
+All spirituality is honor.
+All spirituality is sacrifice.
+So some sacrifice is honor.
+
+All honor is honesty.
+No honesty is compassion.
+So no compassion is honor.
+
+All justice is honesty.
+No honesty is bravery.
+So no bravery is justice.
+
+All sacrifice is compassion.
+No compassion is honesty.
+So no honesty is sacrifice.
+
+All justice is compassion.
+No compassion is bravery.
+So no bravery is justice.
+
+All sacrifice is bravery.
+No bravery is honesty.
+So no honesty is sacrifice.
+
+All honor is bravery.
+No bravery is compassion.
+So no compassion is honor.
+
+Some honor is justice.
+All justice is honesty.
+So some honesty is honor.
+
+Some sacrifice is justice.
+All justice is compassion.
+So some compassion is sacrifice.
+
+Some justice is honor.
+All honor is honesty.
+So some honesty is justice.
+
+Some sacrifice is honor.
+All honor is bravery.
+So some bravery is sacrifice.
+
+Some justice is sacrifice.
+All sacrifice is compassion.
+So some compassion is justice.
+
+Some honor is sacrifice.
+All sacrifice is bravery.
+So some bravery is honor.
+
+Some justice is spirituality.
+All spirituality is honesty.
+So some honesty is justice.
+
+Some honor is spirituality.
+All spirituality is honesty.
+So some honesty is honor.
+
+Some justice is spirituality.
+All spirituality is compassion.
+So some compassion is justice.
+
+Some sacrifice is spirituality.
+All spirituality is compassion.
+So some compassion is sacrifice.
+
+Some honor is spirituality.
+All spirituality is bravery.
+So some bravery is honor.
+
+Some sacrifice is spirituality.
+All spirituality is bravery.
+So some bravery is sacrifice.
+
+Some honor is spirituality.
+All spirituality is justice.
+So some justice is honor.
+
+Some sacrifice is spirituality.
+All spirituality is justice.
+So some justice is sacrifice.
+
+Some justice is spirituality.
+All spirituality is honor.
+So some honor is justice.
+
+Some sacrifice is spirituality.
+All spirituality is honor.
+So, some honor is sacrifice.
+
+Some justice is spirituality.
+All spirituality is sacrifice.
+So, some sacrifice is justice.
+
+Some honor is spirituality.
+All spirituality is sacrifice.
+So some sacrifice is honor.
+
+No compassion is honesty.
+Some honesty is justice.
+So some justice is not compassion.
+
+No sacrifice is honesty.
+Some honesty is justice.
+So some justice is not sacrifice.
+
+No bravery is honesty.
+Some honesty is honor.
+So some honor is not bravery.
+
+No sacrifice is honesty.
+Some honesty is honor.
+So some honor is not sacrifice.
+
+No compassion is honesty.
+Some honesty is spirituality.
+So some spirituality is not compassion.
+
+No bravery is honesty.
+Some honesty is spirituality.
+So some spirituality is not bravery.
+
+No sacrifice is honesty.
+Some honesty is spirituality.
+So some spirituality is not sacrifice.
+
+No honesty is compassion.
+Some compassion is justice.
+So some justice is not honesty.
+
+No honor is compassion.
+Some compassion is justice.
+So some justice is not honor.
+
+No bravery is compassion.
+Some compassion is sacrifice.
+So some sacrifice is not bravery.
+
+No honor is compassion.
+Some compassion is sacrifice.
+So some sacrifice is not honor.
+
+No honesty is compassion.
+Some compassion is spirituality.
+So some spirituality is not honesty.
+
+No bravery is compassion.
+Some compassion is spirituality.
+So some spirituality is not bravery.
+
+No honor is compassion.
+Some compassion is spirituality.
+So some spirituality is not honor.
+
+No honesty is bravery.
+Some bravery is honor.
+So some honor is not honesty.
+
+No justice is bravery.
+Some bravery is honor.
+So some honor is not justice.
+
+No compassion is bravery.
+Some bravery is sacrifice.
+So some sacrifice is not compassion.
+
+No justice is bravery.
+Some bravery is sacrifice.
+So some sacrifice is not justice.
+
+No honesty is bravery.
+Some bravery is spirituality.
+So some spirituality is not honesty.
+
+No compassion is bravery.
+Some bravery is spirituality.
+So some spirituality is not compassion.
+
+No justice is bravery.
+Some bravery is spirituality.
+So some spirituality is not justice.
+
+No bravery is justice.
+Some justice is honor.
+So some honor is not bravery.
+
+No bravery is justice.
+Some justice is sacrifice.
+So some sacrifice is not bravery.
+
+No bravery is justice.
+Some justice is spirituality.
+So some spirituality is not bravery.
+
+No compassion is honor.
+Some honor is justice.
+So some justice is not compassion.
+
+No compassion is honor.
+Some honor is sacrifice.
+So some sacrifice is not compassion.
+
+No compassion is honor.
+Some honor is spirituality.
+So some spirituality is not compassion.
+
+No honesty is sacrifice.
+Some sacrifice is justice.
+So some justice is not honesty.
+
+No honesty is sacrifice.
+Some sacrifice is honor.
+So some honor is not honesty.
+
+No honesty is sacrifice.
+Some sacrifice is spirituality.
+So some spirituality is not honesty.
+
+All justice is honesty.
+No honesty is compassion.
+So some compassion is not justice.
+
+All spirituality is honesty.
+No honesty is compassion.
+So some compassion is not spirituality.
+
+All honor is honesty.
+No honesty is bravery.
+So some bravery is not honor.
+
+All spirituality is honesty.
+No honesty is bravery.
+So, some bravery is not spirituality.
+
+All justice is honesty.
+No honesty is sacrifice.
+So some sacrifice is not justice.
+
+All honor is honesty.
+No honesty is sacrifice.
+So some sacrifice is not honor.
+
+All spirituality is honesty.
+No honesty is sacrifice.
+So some sacrifice is not spirituality.
+
+All justice is compassion.
+No compassion is honesty.
+So some honesty is not justice.
+
+All spirituality is compassion.
+No compassion is honesty.
+So some honesty is not spirituality.
+
+All sacrifice is compassion.
+No compassion is bravery.
+So, some bravery is not sacrifice.
+
+All spirituality is compassion.
+No compassion is bravery.
+So, some bravery is not spirituality.
+
+All justice is compassion.
+No compassion is honor.
+So some honor is not justice.
+
+All sacrifice is compassion.
+No compassion is honor.
+So some honor is not sacrifice.
+
+All spirituality is compassion.
+No compassion is honor.
+So some honor is not spirituality.
+
+All honor is bravery.
+No bravery is honesty.
+So some honesty is not honor.
+
+All spirituality is bravery.
+No bravery is honesty.
+So some honesty is not spirituality.
+
+All sacrifice is bravery.
+No bravery is compassion.
+So some compassion is not sacrifice.
+
+All spirituality is bravery.
+No bravery is compassion.
+So some compassion is not spirituality.
+
+All honor is bravery.
+No bravery is justice.
+So some justice is not honor.
+
+All sacrifice is bravery.
+No bravery is justice.
+So some justice is not sacrifice.
+
+All spirituality is bravery.
+No bravery is justice.
+So some justice is not spirituality.
+
+All spirituality is justice.
+No justice is bravery.
+So, some bravery is not spirituality.
+
+All spirituality is honor.
+No honor is compassion.
+So some compassion is not spirituality.
+
+All spirituality is sacrifice.
+No sacrifice is honesty.
+So some honesty is not spirituality.
+
+All spirituality is justice.
+All justice is honesty.
+So some honesty is spirituality.
+
+All spirituality is justice.
+All justice is compassion.
+So some compassion is spirituality.
+
+All spirituality is honor.
+All honor is honesty.
+So some honesty is spirituality.
+
+All spirituality is honor.
+All honor is bravery.
+So some bravery is spirituality.
+
+All spirituality is sacrifice.
+All sacrifice is compassion.
+So some compassion is spirituality.
+
+All spirituality is sacrifice.
+All sacrifice is bravery.
+So some bravery is spirituality.
+
+

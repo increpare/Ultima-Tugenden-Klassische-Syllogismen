@@ -1,1154 +1,666 @@
-Alle Gerechtigkeit ist Spiritualität.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist alle Ehrlichkeit Spiritualität.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist alle Spiritualität Ehrlichkeit.
 
-Alle Gerechtigkeit ist Spiritualität.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist alle Mitgefühl Spiritualität.
+Alle Gerechtigkeit ist Mitgefühl.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist alle Spiritualität Mitgefühl.
 
-Alle Ehre ist Spiritualität.
-Alle Ehrlichkeit ist Ehre.
-Also ist alle Ehrlichkeit Spiritualität.
+Alle Ehre ist Ehrlichkeit.
+Alle Spiritualität ist Ehre.
+Also ist alle Spiritualität Ehrlichkeit.
 
-Alle Ehre ist Spiritualität.
-Alle Tapferkeit ist Ehre.
-Also ist alle Tapferkeit Spiritualität.
+Alle Ehre ist Tapferkeit.
+Alle Spiritualität ist Ehre.
+Also ist alle Spiritualität Tapferkeit.
 
-Alle Autopferung ist Spiritualität.
-Alle Mitgefühl ist Autopferung.
-Also ist alle Mitgefühl Spiritualität.
+Alle Aufopferung ist Mitgefühl.
+Alle Spiritualität ist Aufopferung.
+Also ist alle Spiritualität Mitgefühl.
 
-Alle Autopferung ist Spiritualität.
-Alle Tapferkeit ist Autopferung.
-Also ist alle Tapferkeit Spiritualität.
+Alle Aufopferung ist Tapferkeit.
+Alle Spiritualität ist Aufopferung.
+Also ist alle Spiritualität Tapferkeit.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist keine Ehrlichkeit Tapferkeit.
+Keine Ehrlichkeit ist Tapferkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist keine Gerechtigkeit Tapferkeit.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist keine Mitgefühl Tapferkeit.
+Keine Ehrlichkeit ist Mitgefühl.
+Alle Ehre ist Ehrlichkeit.
+Also ist keine Ehre Mitgefühl.
 
-Keine Ehre ist Mitgefühl.
-Alle Ehrlichkeit ist Ehre.
-Also ist keine Ehrlichkeit Mitgefühl.
+Keine Mitgefühl ist Tapferkeit.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist keine Gerechtigkeit Tapferkeit.
 
-Keine Ehre ist Mitgefühl.
-Alle Tapferkeit ist Ehre.
-Also ist keine Tapferkeit Mitgefühl.
+Keine Mitgefühl ist Ehrlichkeit.
+Alle Aufopferung ist Mitgefühl.
+Also ist keine Aufopferung Ehrlichkeit.
 
-Keine Autopferung ist Ehrlichkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist keine Mitgefühl Ehrlichkeit.
+Keine Tapferkeit ist Mitgefühl.
+Alle Ehre ist Tapferkeit.
+Also ist keine Ehre Mitgefühl.
 
-Keine Autopferung ist Ehrlichkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist keine Tapferkeit Ehrlichkeit.
+Keine Tapferkeit ist Ehrlichkeit.
+Alle Aufopferung ist Tapferkeit.
+Also ist keine Aufopferung Ehrlichkeit.
 
-Alle Ehrlichkeit ist Ehre.
-Einige Gerechtigkeit ist Ehrlichkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Einige Ehrlichkeit ist Spiritualität.
+Also ist einige Ehrlichkeit Gerechtigkeit.
+
+Alle Spiritualität ist Ehre.
+Einige Ehrlichkeit ist Spiritualität.
+Also ist einige Ehrlichkeit Ehre.
+
+Alle Spiritualität ist Gerechtigkeit.
+Einige Mitgefühl ist Spiritualität.
+Also ist einige Mitgefühl Gerechtigkeit.
+
+Alle Spiritualität ist Aufopferung.
+Einige Mitgefühl ist Spiritualität.
+Also ist einige Mitgefühl Aufopferung.
+
+Alle Spiritualität ist Ehre.
+Einige Tapferkeit ist Spiritualität.
+Also ist einige Tapferkeit Ehre.
+
+Alle Spiritualität ist Aufopferung.
+Einige Tapferkeit ist Spiritualität.
+Also ist einige Tapferkeit Aufopferung.
+
+Alle Spiritualität ist Ehre.
+Einige Gerechtigkeit ist Spiritualität.
 Also ist einige Gerechtigkeit Ehre.
 
-Alle Ehrlichkeit ist Spiritualität.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit Spiritualität.
+Alle Spiritualität ist Aufopferung.
+Einige Gerechtigkeit ist Spiritualität.
+Also ist einige Gerechtigkeit Aufopferung.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Ehre ist Ehrlichkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Einige Ehre ist Spiritualität.
 Also ist einige Ehre Gerechtigkeit.
 
-Alle Ehrlichkeit ist Spiritualität.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehre Spiritualität.
+Alle Spiritualität ist Aufopferung.
+Einige Ehre ist Spiritualität.
+Also ist einige Ehre Aufopferung.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Spiritualität ist Ehrlichkeit.
-Also ist einige Spiritualität Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Einige Aufopferung ist Spiritualität.
+Also ist einige Aufopferung Gerechtigkeit.
 
-Alle Ehrlichkeit ist Ehre.
-Einige Spiritualität ist Ehrlichkeit.
-Also ist einige Spiritualität Ehre.
+Alle Spiritualität ist Ehre.
+Einige Aufopferung ist Spiritualität.
+Also ist einige Aufopferung Ehre.
 
-Alle Mitgefühl ist Autopferung.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Gerechtigkeit Autopferung.
-
-Alle Mitgefühl ist Spiritualität.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung Gerechtigkeit.
-
-Alle Mitgefühl ist Spiritualität.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung Spiritualität.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Spiritualität ist Mitgefühl.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Alle Mitgefühl ist Autopferung.
-Einige Spiritualität ist Mitgefühl.
-Also ist einige Spiritualität Autopferung.
-
-Alle Tapferkeit ist Autopferung.
-Einige Ehre ist Tapferkeit.
-Also ist einige Ehre Autopferung.
-
-Alle Tapferkeit ist Spiritualität.
-Einige Ehre ist Tapferkeit.
-Also ist einige Ehre Spiritualität.
-
-Alle Tapferkeit ist Ehre.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung Ehre.
-
-Alle Tapferkeit ist Spiritualität.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung Spiritualität.
-
-Alle Tapferkeit ist Ehre.
-Einige Spiritualität ist Tapferkeit.
-Also ist einige Spiritualität Ehre.
-
-Alle Tapferkeit ist Autopferung.
-Einige Spiritualität ist Tapferkeit.
-Also ist einige Spiritualität Autopferung.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Ehrlichkeit Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Mitgefühl Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
+Keine Gerechtigkeit ist Tapferkeit.
 Einige Ehre ist Gerechtigkeit.
-Also ist einige Ehre Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Autopferung ist Gerechtigkeit.
-Also ist einige Autopferung Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehrlichkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Tapferkeit ist Ehre.
-Also ist einige Tapferkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Gerechtigkeit ist Ehre.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Autopferung ist Ehre.
-Also ist einige Autopferung Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Mitgefühl Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Tapferkeit Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Gerechtigkeit ist Autopferung.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Ehre ist Autopferung.
-Also ist einige Ehre Spiritualität.
-
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
-
-Keine Ehrlichkeit ist Tapferkeit.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehre nicht Mitgefühl.
-
-Keine Ehrlichkeit ist Tapferkeit.
-Einige Ehre ist Ehrlichkeit.
 Also ist einige Ehre nicht Tapferkeit.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehre nicht Autopferung.
+Keine Gerechtigkeit ist Tapferkeit.
+Einige Aufopferung ist Gerechtigkeit.
+Also ist einige Aufopferung nicht Tapferkeit.
+
+Keine Ehre ist Mitgefühl.
+Einige Gerechtigkeit ist Ehre.
+Also ist einige Gerechtigkeit nicht Mitgefühl.
+
+Keine Ehre ist Mitgefühl.
+Einige Aufopferung ist Ehre.
+Also ist einige Aufopferung nicht Mitgefühl.
+
+Keine Aufopferung ist Ehrlichkeit.
+Einige Gerechtigkeit ist Aufopferung.
+Also ist einige Gerechtigkeit nicht Ehrlichkeit.
+
+Keine Aufopferung ist Ehrlichkeit.
+Einige Ehre ist Aufopferung.
+Also ist einige Ehre nicht Ehrlichkeit.
 
 Keine Ehrlichkeit ist Mitgefühl.
-Einige Spiritualität ist Ehrlichkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Gerechtigkeit nicht Mitgefühl.
+
+Keine Ehrlichkeit ist Aufopferung.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Gerechtigkeit nicht Aufopferung.
+
+Keine Ehrlichkeit ist Tapferkeit.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehre nicht Tapferkeit.
+
+Keine Ehrlichkeit ist Aufopferung.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehre nicht Aufopferung.
+
+Keine Ehrlichkeit ist Mitgefühl.
+Alle Spiritualität ist Ehrlichkeit.
 Also ist einige Spiritualität nicht Mitgefühl.
 
 Keine Ehrlichkeit ist Tapferkeit.
-Einige Spiritualität ist Ehrlichkeit.
+Alle Spiritualität ist Ehrlichkeit.
 Also ist einige Spiritualität nicht Tapferkeit.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Spiritualität ist Ehrlichkeit.
-Also ist einige Spiritualität nicht Autopferung.
+Keine Ehrlichkeit ist Aufopferung.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Spiritualität nicht Aufopferung.
 
 Keine Mitgefühl ist Ehrlichkeit.
-Einige Gerechtigkeit ist Mitgefühl.
+Alle Gerechtigkeit ist Mitgefühl.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Mitgefühl ist Tapferkeit.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
 Keine Mitgefühl ist Ehre.
-Einige Gerechtigkeit ist Mitgefühl.
+Alle Gerechtigkeit ist Mitgefühl.
 Also ist einige Gerechtigkeit nicht Ehre.
 
-Keine Mitgefühl ist Ehrlichkeit.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
 Keine Mitgefühl ist Tapferkeit.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung nicht Tapferkeit.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Aufopferung nicht Tapferkeit.
 
 Keine Mitgefühl ist Ehre.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung nicht Ehre.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Aufopferung nicht Ehre.
 
 Keine Mitgefühl ist Ehrlichkeit.
-Einige Spiritualität ist Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
 Also ist einige Spiritualität nicht Ehrlichkeit.
 
 Keine Mitgefühl ist Tapferkeit.
-Einige Spiritualität ist Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
 Also ist einige Spiritualität nicht Tapferkeit.
 
 Keine Mitgefühl ist Ehre.
-Einige Spiritualität ist Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
 Also ist einige Spiritualität nicht Ehre.
 
 Keine Tapferkeit ist Ehrlichkeit.
-Einige Ehre ist Tapferkeit.
+Alle Ehre ist Tapferkeit.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Tapferkeit ist Mitgefühl.
-Einige Ehre ist Tapferkeit.
-Also ist einige Ehre nicht Mitgefühl.
-
 Keine Tapferkeit ist Gerechtigkeit.
-Einige Ehre ist Tapferkeit.
+Alle Ehre ist Tapferkeit.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Ehrlichkeit.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
 Keine Tapferkeit ist Mitgefühl.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung nicht Mitgefühl.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Aufopferung nicht Mitgefühl.
 
 Keine Tapferkeit ist Gerechtigkeit.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung nicht Gerechtigkeit.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Aufopferung nicht Gerechtigkeit.
 
 Keine Tapferkeit ist Ehrlichkeit.
-Einige Spiritualität ist Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
 Also ist einige Spiritualität nicht Ehrlichkeit.
 
 Keine Tapferkeit ist Mitgefühl.
-Einige Spiritualität ist Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
 Also ist einige Spiritualität nicht Mitgefühl.
 
 Keine Tapferkeit ist Gerechtigkeit.
-Einige Spiritualität ist Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
 Also ist einige Spiritualität nicht Gerechtigkeit.
 
 Keine Gerechtigkeit ist Tapferkeit.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Spiritualität nicht Tapferkeit.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Mitgefühl nicht Tapferkeit.
+Keine Ehre ist Mitgefühl.
+Alle Spiritualität ist Ehre.
+Also ist einige Spiritualität nicht Mitgefühl.
 
-Keine Gerechtigkeit ist Tapferkeit.
+Keine Aufopferung ist Ehrlichkeit.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Spiritualität nicht Ehrlichkeit.
+
+Keine Tapferkeit ist Ehrlichkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist keine Gerechtigkeit Tapferkeit.
+
+Keine Mitgefühl ist Ehrlichkeit.
+Alle Ehre ist Ehrlichkeit.
+Also ist keine Ehre Mitgefühl.
+
+Keine Tapferkeit ist Mitgefühl.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist keine Gerechtigkeit Tapferkeit.
+
+Keine Ehrlichkeit ist Mitgefühl.
+Alle Aufopferung ist Mitgefühl.
+Also ist keine Aufopferung Ehrlichkeit.
+
+Keine Mitgefühl ist Tapferkeit.
+Alle Ehre ist Tapferkeit.
+Also ist keine Ehre Mitgefühl.
+
+Keine Ehrlichkeit ist Tapferkeit.
+Alle Aufopferung ist Tapferkeit.
+Also ist keine Aufopferung Ehrlichkeit.
+
+Alle Ehre ist Ehrlichkeit.
+Keine Mitgefühl ist Ehrlichkeit.
+Also ist keine Mitgefühl Ehre.
+
+Alle Gerechtigkeit ist Ehrlichkeit.
+Keine Tapferkeit ist Ehrlichkeit.
+Also ist keine Tapferkeit Gerechtigkeit.
+
+Alle Aufopferung ist Mitgefühl.
+Keine Ehrlichkeit ist Mitgefühl.
+Also ist keine Ehrlichkeit Aufopferung.
+
+Alle Gerechtigkeit ist Mitgefühl.
+Keine Tapferkeit ist Mitgefühl.
+Also ist keine Tapferkeit Gerechtigkeit.
+
+Alle Aufopferung ist Tapferkeit.
+Keine Ehrlichkeit ist Tapferkeit.
+Also ist keine Ehrlichkeit Aufopferung.
+
+Alle Ehre ist Tapferkeit.
+Keine Mitgefühl ist Tapferkeit.
+Also ist keine Mitgefühl Ehre.
+
+Keine Tapferkeit ist Gerechtigkeit.
 Einige Ehre ist Gerechtigkeit.
 Also ist einige Ehre nicht Tapferkeit.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Autopferung ist Gerechtigkeit.
-Also ist einige Autopferung nicht Tapferkeit.
+Keine Tapferkeit ist Gerechtigkeit.
+Einige Aufopferung ist Gerechtigkeit.
+Also ist einige Aufopferung nicht Tapferkeit.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Spiritualität ist Gerechtigkeit.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Keine Ehre ist Mitgefühl.
-Einige Tapferkeit ist Ehre.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Keine Ehre ist Mitgefühl.
+Keine Mitgefühl ist Ehre.
 Einige Gerechtigkeit ist Ehre.
 Also ist einige Gerechtigkeit nicht Mitgefühl.
 
-Keine Ehre ist Mitgefühl.
-Einige Autopferung ist Ehre.
-Also ist einige Autopferung nicht Mitgefühl.
+Keine Mitgefühl ist Ehre.
+Einige Aufopferung ist Ehre.
+Also ist einige Aufopferung nicht Mitgefühl.
 
-Keine Ehre ist Mitgefühl.
-Einige Spiritualität ist Ehre.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Gerechtigkeit ist Autopferung.
+Keine Ehrlichkeit ist Aufopferung.
+Einige Gerechtigkeit ist Aufopferung.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Autopferung ist Ehrlichkeit.
-Einige Ehre ist Autopferung.
+Keine Ehrlichkeit ist Aufopferung.
+Einige Ehre ist Aufopferung.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Autopferung ist Ehrlichkeit.
-Einige Spiritualität ist Autopferung.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Alle Gerechtigkeit ist Spiritualität.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Ehrlichkeit Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Mitgefühl Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehrlichkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Alle Tapferkeit ist Ehre.
-Also ist einige Tapferkeit Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Mitgefühl Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Tapferkeit Spiritualität.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Keine Ehre ist Mitgefühl.
-Alle Tapferkeit ist Ehre.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Keine Autopferung ist Ehrlichkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist keine Ehrlichkeit Tapferkeit.
-
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist keine Mitgefühl Tapferkeit.
-
-Keine Mitgefühl ist Ehre.
-Alle Ehrlichkeit ist Ehre.
-Also ist keine Ehrlichkeit Mitgefühl.
-
-Keine Mitgefühl ist Ehre.
-Alle Tapferkeit ist Ehre.
-Also ist keine Tapferkeit Mitgefühl.
-
-Keine Ehrlichkeit ist Autopferung.
-Alle Mitgefühl ist Autopferung.
-Also ist keine Mitgefühl Ehrlichkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Alle Tapferkeit ist Autopferung.
-Also ist keine Tapferkeit Ehrlichkeit.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
-Keine Tapferkeit ist Gerechtigkeit.
-Also ist keine Tapferkeit Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Keine Tapferkeit ist Gerechtigkeit.
-Also ist keine Tapferkeit Mitgefühl.
-
-Alle Ehrlichkeit ist Ehre.
-Keine Mitgefühl ist Ehre.
-Also ist keine Mitgefühl Ehrlichkeit.
-
-Alle Tapferkeit ist Ehre.
-Keine Mitgefühl ist Ehre.
-Also ist keine Mitgefühl Tapferkeit.
-
-Alle Mitgefühl ist Autopferung.
-Keine Ehrlichkeit ist Autopferung.
-Also ist keine Ehrlichkeit Mitgefühl.
-
-Alle Tapferkeit ist Autopferung.
-Keine Ehrlichkeit ist Autopferung.
-Also ist keine Ehrlichkeit Tapferkeit.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehre nicht Mitgefühl.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehre nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehre nicht Autopferung.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Einige Spiritualität ist Ehrlichkeit.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Einige Spiritualität ist Ehrlichkeit.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Spiritualität ist Ehrlichkeit.
-Also ist einige Spiritualität nicht Autopferung.
-
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Gerechtigkeit nicht Ehrlichkeit.
-
-Keine Tapferkeit ist Mitgefühl.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Einige Gerechtigkeit ist Mitgefühl.
+Alle Ehre ist Ehrlichkeit.
+Einige Gerechtigkeit ist nicht Ehrlichkeit.
 Also ist einige Gerechtigkeit nicht Ehre.
 
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Alle Spiritualität ist Ehrlichkeit.
+Einige Gerechtigkeit ist nicht Ehrlichkeit.
+Also ist einige Gerechtigkeit nicht Spiritualität.
 
-Keine Tapferkeit ist Mitgefühl.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Autopferung nicht Ehre.
-
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Spiritualität ist Mitgefühl.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Keine Tapferkeit ist Mitgefühl.
-Einige Spiritualität ist Mitgefühl.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Einige Spiritualität ist Mitgefühl.
-Also ist einige Spiritualität nicht Ehre.
-
-Keine Ehrlichkeit ist Tapferkeit.
-Einige Ehre ist Tapferkeit.
-Also ist einige Ehre nicht Ehrlichkeit.
-
-Keine Mitgefühl ist Tapferkeit.
-Einige Ehre ist Tapferkeit.
-Also ist einige Ehre nicht Mitgefühl.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Ehre ist Tapferkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Einige Ehre ist nicht Ehrlichkeit.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Keine Ehrlichkeit ist Tapferkeit.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Alle Spiritualität ist Ehrlichkeit.
+Einige Ehre ist nicht Ehrlichkeit.
+Also ist einige Ehre nicht Spiritualität.
 
-Keine Mitgefühl ist Tapferkeit.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung nicht Mitgefühl.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Autopferung nicht Gerechtigkeit.
-
-Keine Ehrlichkeit ist Tapferkeit.
-Einige Spiritualität ist Tapferkeit.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Keine Mitgefühl ist Tapferkeit.
-Einige Spiritualität ist Tapferkeit.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Spiritualität ist Tapferkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Einige Spiritualität ist nicht Ehrlichkeit.
 Also ist einige Spiritualität nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
+Alle Ehre ist Ehrlichkeit.
+Einige Spiritualität ist nicht Ehrlichkeit.
+Also ist einige Spiritualität nicht Ehre.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Mitgefühl nicht Tapferkeit.
+Alle Aufopferung ist Mitgefühl.
+Einige Gerechtigkeit ist nicht Mitgefühl.
+Also ist einige Gerechtigkeit nicht Aufopferung.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Einige Ehre ist Gerechtigkeit.
-Also ist einige Ehre nicht Tapferkeit.
+Alle Spiritualität ist Mitgefühl.
+Einige Gerechtigkeit ist nicht Mitgefühl.
+Also ist einige Gerechtigkeit nicht Spiritualität.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Einige Autopferung ist Gerechtigkeit.
-Also ist einige Autopferung nicht Tapferkeit.
+Alle Gerechtigkeit ist Mitgefühl.
+Einige Aufopferung ist nicht Mitgefühl.
+Also ist einige Aufopferung nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Einige Spiritualität ist Gerechtigkeit.
-Also ist einige Spiritualität nicht Tapferkeit.
+Alle Spiritualität ist Mitgefühl.
+Einige Aufopferung ist nicht Mitgefühl.
+Also ist einige Aufopferung nicht Spiritualität.
 
-Keine Mitgefühl ist Ehre.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
+Alle Gerechtigkeit ist Mitgefühl.
+Einige Spiritualität ist nicht Mitgefühl.
+Also ist einige Spiritualität nicht Gerechtigkeit.
 
-Keine Mitgefühl ist Ehre.
-Einige Tapferkeit ist Ehre.
-Also ist einige Tapferkeit nicht Mitgefühl.
+Alle Aufopferung ist Mitgefühl.
+Einige Spiritualität ist nicht Mitgefühl.
+Also ist einige Spiritualität nicht Aufopferung.
 
-Keine Mitgefühl ist Ehre.
-Einige Gerechtigkeit ist Ehre.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
+Alle Aufopferung ist Tapferkeit.
+Einige Ehre ist nicht Tapferkeit.
+Also ist einige Ehre nicht Aufopferung.
 
-Keine Mitgefühl ist Ehre.
-Einige Autopferung ist Ehre.
-Also ist einige Autopferung nicht Mitgefühl.
+Alle Spiritualität ist Tapferkeit.
+Einige Ehre ist nicht Tapferkeit.
+Also ist einige Ehre nicht Spiritualität.
 
-Keine Mitgefühl ist Ehre.
-Einige Spiritualität ist Ehre.
-Also ist einige Spiritualität nicht Mitgefühl.
+Alle Ehre ist Tapferkeit.
+Einige Aufopferung ist nicht Tapferkeit.
+Also ist einige Aufopferung nicht Ehre.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
+Alle Spiritualität ist Tapferkeit.
+Einige Aufopferung ist nicht Tapferkeit.
+Also ist einige Aufopferung nicht Spiritualität.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
+Alle Ehre ist Tapferkeit.
+Einige Spiritualität ist nicht Tapferkeit.
+Also ist einige Spiritualität nicht Ehre.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Gerechtigkeit ist Autopferung.
-Also ist einige Gerechtigkeit nicht Ehrlichkeit.
+Alle Aufopferung ist Tapferkeit.
+Einige Spiritualität ist nicht Tapferkeit.
+Also ist einige Spiritualität nicht Aufopferung.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Ehre ist Autopferung.
-Also ist einige Ehre nicht Ehrlichkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Einige Spiritualität ist Autopferung.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
 Einige Ehrlichkeit ist nicht Gerechtigkeit.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
 Einige Mitgefühl ist nicht Gerechtigkeit.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Tapferkeit ist nicht Gerechtigkeit.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Tapferkeit ist nicht Gerechtigkeit.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
 Einige Ehre ist nicht Gerechtigkeit.
-Also ist einige Ehre nicht Ehrlichkeit.
+Also ist einige Ehre nicht Spiritualität.
 
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Ehre ist nicht Gerechtigkeit.
-Also ist einige Ehre nicht Mitgefühl.
+Alle Spiritualität ist Gerechtigkeit.
+Einige Aufopferung ist nicht Gerechtigkeit.
+Also ist einige Aufopferung nicht Spiritualität.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Autopferung ist nicht Gerechtigkeit.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Autopferung ist nicht Gerechtigkeit.
-Also ist einige Autopferung nicht Mitgefühl.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Spiritualität ist nicht Gerechtigkeit.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Spiritualität ist nicht Gerechtigkeit.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Alle Tapferkeit ist Ehre.
+Alle Spiritualität ist Ehre.
 Einige Ehrlichkeit ist nicht Ehre.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Ehre.
-Einige Mitgefühl ist nicht Ehre.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Alle Tapferkeit ist Ehre.
-Einige Mitgefühl ist nicht Ehre.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Alle Ehrlichkeit ist Ehre.
+Alle Spiritualität ist Ehre.
 Einige Tapferkeit ist nicht Ehre.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Ehre.
+Alle Spiritualität ist Ehre.
 Einige Gerechtigkeit ist nicht Ehre.
-Also ist einige Gerechtigkeit nicht Ehrlichkeit.
+Also ist einige Gerechtigkeit nicht Spiritualität.
 
-Alle Tapferkeit ist Ehre.
-Einige Gerechtigkeit ist nicht Ehre.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
+Alle Spiritualität ist Ehre.
+Einige Aufopferung ist nicht Ehre.
+Also ist einige Aufopferung nicht Spiritualität.
 
-Alle Ehrlichkeit ist Ehre.
-Einige Autopferung ist nicht Ehre.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Alle Spiritualität ist Aufopferung.
+Einige Mitgefühl ist nicht Aufopferung.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Alle Tapferkeit ist Ehre.
-Einige Autopferung ist nicht Ehre.
-Also ist einige Autopferung nicht Tapferkeit.
+Alle Spiritualität ist Aufopferung.
+Einige Tapferkeit ist nicht Aufopferung.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Ehre.
-Einige Spiritualität ist nicht Ehre.
-Also ist einige Spiritualität nicht Ehrlichkeit.
+Alle Spiritualität ist Aufopferung.
+Einige Gerechtigkeit ist nicht Aufopferung.
+Also ist einige Gerechtigkeit nicht Spiritualität.
 
-Alle Tapferkeit ist Ehre.
-Einige Spiritualität ist nicht Ehre.
-Also ist einige Spiritualität nicht Tapferkeit.
+Alle Spiritualität ist Aufopferung.
+Einige Ehre ist nicht Aufopferung.
+Also ist einige Ehre nicht Spiritualität.
 
-Alle Mitgefühl ist Autopferung.
-Einige Ehrlichkeit ist nicht Autopferung.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Alle Tapferkeit ist Autopferung.
-Einige Ehrlichkeit ist nicht Autopferung.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
-
-Alle Tapferkeit ist Autopferung.
-Einige Mitgefühl ist nicht Autopferung.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Alle Mitgefühl ist Autopferung.
-Einige Tapferkeit ist nicht Autopferung.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Alle Mitgefühl ist Autopferung.
-Einige Gerechtigkeit ist nicht Autopferung.
+Keine Mitgefühl ist Ehrlichkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
 Also ist einige Gerechtigkeit nicht Mitgefühl.
 
-Alle Tapferkeit ist Autopferung.
-Einige Gerechtigkeit ist nicht Autopferung.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
+Keine Aufopferung ist Ehrlichkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Gerechtigkeit nicht Aufopferung.
 
-Alle Mitgefühl ist Autopferung.
-Einige Ehre ist nicht Autopferung.
-Also ist einige Ehre nicht Mitgefühl.
-
-Alle Tapferkeit ist Autopferung.
-Einige Ehre ist nicht Autopferung.
+Keine Tapferkeit ist Ehrlichkeit.
+Alle Ehre ist Ehrlichkeit.
 Also ist einige Ehre nicht Tapferkeit.
 
-Alle Mitgefühl ist Autopferung.
-Einige Spiritualität ist nicht Autopferung.
+Keine Aufopferung ist Ehrlichkeit.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehre nicht Aufopferung.
+
+Keine Mitgefühl ist Ehrlichkeit.
+Alle Spiritualität ist Ehrlichkeit.
 Also ist einige Spiritualität nicht Mitgefühl.
 
-Alle Tapferkeit ist Autopferung.
-Einige Spiritualität ist nicht Autopferung.
+Keine Tapferkeit ist Ehrlichkeit.
+Alle Spiritualität ist Ehrlichkeit.
 Also ist einige Spiritualität nicht Tapferkeit.
 
-Alle Mitgefühl ist Spiritualität.
-Einige Ehrlichkeit ist nicht Spiritualität.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
+Keine Aufopferung ist Ehrlichkeit.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Spiritualität nicht Aufopferung.
 
-Alle Tapferkeit ist Spiritualität.
-Einige Ehrlichkeit ist nicht Spiritualität.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
+Keine Ehrlichkeit ist Mitgefühl.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Alle Gerechtigkeit ist Spiritualität.
-Einige Ehrlichkeit ist nicht Spiritualität.
-Also ist einige Ehrlichkeit nicht Gerechtigkeit.
+Keine Ehre ist Mitgefühl.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Gerechtigkeit nicht Ehre.
 
-Alle Ehre ist Spiritualität.
-Einige Ehrlichkeit ist nicht Spiritualität.
-Also ist einige Ehrlichkeit nicht Ehre.
+Keine Tapferkeit ist Mitgefühl.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Aufopferung nicht Tapferkeit.
 
-Alle Autopferung ist Spiritualität.
-Einige Ehrlichkeit ist nicht Spiritualität.
-Also ist einige Ehrlichkeit nicht Autopferung.
+Keine Ehre ist Mitgefühl.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Aufopferung nicht Ehre.
 
-Alle Ehrlichkeit ist Spiritualität.
-Einige Mitgefühl ist nicht Spiritualität.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
+Keine Ehrlichkeit ist Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Spiritualität nicht Ehrlichkeit.
 
-Alle Tapferkeit ist Spiritualität.
-Einige Mitgefühl ist nicht Spiritualität.
-Also ist einige Mitgefühl nicht Tapferkeit.
+Keine Tapferkeit ist Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Spiritualität nicht Tapferkeit.
 
-Alle Gerechtigkeit ist Spiritualität.
-Einige Mitgefühl ist nicht Spiritualität.
+Keine Ehre ist Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Spiritualität nicht Ehre.
+
+Keine Ehrlichkeit ist Tapferkeit.
+Alle Ehre ist Tapferkeit.
+Also ist einige Ehre nicht Ehrlichkeit.
+
+Keine Gerechtigkeit ist Tapferkeit.
+Alle Ehre ist Tapferkeit.
+Also ist einige Ehre nicht Gerechtigkeit.
+
+Keine Mitgefühl ist Tapferkeit.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Aufopferung nicht Mitgefühl.
+
+Keine Gerechtigkeit ist Tapferkeit.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Aufopferung nicht Gerechtigkeit.
+
+Keine Ehrlichkeit ist Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Spiritualität nicht Ehrlichkeit.
+
+Keine Mitgefühl ist Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Spiritualität nicht Mitgefühl.
+
+Keine Gerechtigkeit ist Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Spiritualität nicht Gerechtigkeit.
+
+Keine Tapferkeit ist Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Spiritualität nicht Tapferkeit.
+
+Keine Mitgefühl ist Ehre.
+Alle Spiritualität ist Ehre.
+Also ist einige Spiritualität nicht Mitgefühl.
+
+Keine Ehrlichkeit ist Aufopferung.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Spiritualität nicht Ehrlichkeit.
+
+Alle Gerechtigkeit ist Ehrlichkeit.
+Keine Mitgefühl ist Ehrlichkeit.
 Also ist einige Mitgefühl nicht Gerechtigkeit.
 
-Alle Ehre ist Spiritualität.
-Einige Mitgefühl ist nicht Spiritualität.
-Also ist einige Mitgefühl nicht Ehre.
+Alle Spiritualität ist Ehrlichkeit.
+Keine Mitgefühl ist Ehrlichkeit.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Alle Autopferung ist Spiritualität.
-Einige Mitgefühl ist nicht Spiritualität.
-Also ist einige Mitgefühl nicht Autopferung.
-
-Alle Ehrlichkeit ist Spiritualität.
-Einige Tapferkeit ist nicht Spiritualität.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Spiritualität.
-Einige Tapferkeit ist nicht Spiritualität.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Tapferkeit ist nicht Spiritualität.
-Also ist einige Tapferkeit nicht Gerechtigkeit.
-
-Alle Ehre ist Spiritualität.
-Einige Tapferkeit ist nicht Spiritualität.
+Alle Ehre ist Ehrlichkeit.
+Keine Tapferkeit ist Ehrlichkeit.
 Also ist einige Tapferkeit nicht Ehre.
 
-Alle Autopferung ist Spiritualität.
-Einige Tapferkeit ist nicht Spiritualität.
-Also ist einige Tapferkeit nicht Autopferung.
+Alle Spiritualität ist Ehrlichkeit.
+Keine Tapferkeit ist Ehrlichkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Spiritualität.
-Einige Gerechtigkeit ist nicht Spiritualität.
-Also ist einige Gerechtigkeit nicht Ehrlichkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Keine Aufopferung ist Ehrlichkeit.
+Also ist einige Aufopferung nicht Gerechtigkeit.
 
-Alle Mitgefühl ist Spiritualität.
-Einige Gerechtigkeit ist nicht Spiritualität.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
+Alle Ehre ist Ehrlichkeit.
+Keine Aufopferung ist Ehrlichkeit.
+Also ist einige Aufopferung nicht Ehre.
 
-Alle Tapferkeit ist Spiritualität.
-Einige Gerechtigkeit ist nicht Spiritualität.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
+Alle Spiritualität ist Ehrlichkeit.
+Keine Aufopferung ist Ehrlichkeit.
+Also ist einige Aufopferung nicht Spiritualität.
 
-Alle Ehre ist Spiritualität.
-Einige Gerechtigkeit ist nicht Spiritualität.
-Also ist einige Gerechtigkeit nicht Ehre.
+Alle Gerechtigkeit ist Mitgefühl.
+Keine Ehrlichkeit ist Mitgefühl.
+Also ist einige Ehrlichkeit nicht Gerechtigkeit.
 
-Alle Autopferung ist Spiritualität.
-Einige Gerechtigkeit ist nicht Spiritualität.
-Also ist einige Gerechtigkeit nicht Autopferung.
+Alle Spiritualität ist Mitgefühl.
+Keine Ehrlichkeit ist Mitgefühl.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Spiritualität.
-Einige Ehre ist nicht Spiritualität.
-Also ist einige Ehre nicht Ehrlichkeit.
+Alle Aufopferung ist Mitgefühl.
+Keine Tapferkeit ist Mitgefühl.
+Also ist einige Tapferkeit nicht Aufopferung.
 
-Alle Mitgefühl ist Spiritualität.
-Einige Ehre ist nicht Spiritualität.
-Also ist einige Ehre nicht Mitgefühl.
+Alle Spiritualität ist Mitgefühl.
+Keine Tapferkeit ist Mitgefühl.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Alle Tapferkeit ist Spiritualität.
-Einige Ehre ist nicht Spiritualität.
-Also ist einige Ehre nicht Tapferkeit.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Ehre ist nicht Spiritualität.
+Alle Gerechtigkeit ist Mitgefühl.
+Keine Ehre ist Mitgefühl.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Alle Autopferung ist Spiritualität.
-Einige Ehre ist nicht Spiritualität.
-Also ist einige Ehre nicht Autopferung.
+Alle Aufopferung ist Mitgefühl.
+Keine Ehre ist Mitgefühl.
+Also ist einige Ehre nicht Aufopferung.
 
-Alle Ehrlichkeit ist Spiritualität.
-Einige Autopferung ist nicht Spiritualität.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Alle Spiritualität ist Mitgefühl.
+Keine Ehre ist Mitgefühl.
+Also ist einige Ehre nicht Spiritualität.
 
-Alle Mitgefühl ist Spiritualität.
-Einige Autopferung ist nicht Spiritualität.
-Also ist einige Autopferung nicht Mitgefühl.
+Alle Ehre ist Tapferkeit.
+Keine Ehrlichkeit ist Tapferkeit.
+Also ist einige Ehrlichkeit nicht Ehre.
 
-Alle Tapferkeit ist Spiritualität.
-Einige Autopferung ist nicht Spiritualität.
-Also ist einige Autopferung nicht Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
+Keine Ehrlichkeit ist Tapferkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Alle Gerechtigkeit ist Spiritualität.
-Einige Autopferung ist nicht Spiritualität.
-Also ist einige Autopferung nicht Gerechtigkeit.
+Alle Aufopferung ist Tapferkeit.
+Keine Mitgefühl ist Tapferkeit.
+Also ist einige Mitgefühl nicht Aufopferung.
 
-Alle Ehre ist Spiritualität.
-Einige Autopferung ist nicht Spiritualität.
-Also ist einige Autopferung nicht Ehre.
+Alle Spiritualität ist Tapferkeit.
+Keine Mitgefühl ist Tapferkeit.
+Also ist einige Mitgefühl nicht Spiritualität.
 
+Alle Ehre ist Tapferkeit.
+Keine Gerechtigkeit ist Tapferkeit.
+Also ist einige Gerechtigkeit nicht Ehre.
+
+Alle Aufopferung ist Tapferkeit.
+Keine Gerechtigkeit ist Tapferkeit.
+Also ist einige Gerechtigkeit nicht Aufopferung.
+
+Alle Spiritualität ist Tapferkeit.
+Keine Gerechtigkeit ist Tapferkeit.
+Also ist einige Gerechtigkeit nicht Spiritualität.
+
+Alle Spiritualität ist Gerechtigkeit.
 Keine Tapferkeit ist Gerechtigkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
+Alle Spiritualität ist Ehre.
 Keine Mitgefühl ist Ehre.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Keine Mitgefühl ist Ehre.
-Alle Tapferkeit ist Ehre.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Keine Ehrlichkeit ist Autopferung.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
-Keine Tapferkeit ist Gerechtigkeit.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Keine Tapferkeit ist Gerechtigkeit.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Alle Ehrlichkeit ist Ehre.
-Keine Mitgefühl ist Ehre.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Alle Tapferkeit ist Ehre.
-Keine Mitgefühl ist Ehre.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Alle Mitgefühl ist Autopferung.
-Keine Ehrlichkeit ist Autopferung.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Alle Tapferkeit ist Autopferung.
-Keine Ehrlichkeit ist Autopferung.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
-
-Alle Ehrlichkeit ist Ehre.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Ehre.
-
-Alle Ehrlichkeit ist Spiritualität.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehre Gerechtigkeit.
-
-Alle Ehrlichkeit ist Spiritualität.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
-Einige Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Alle Ehrlichkeit ist Ehre.
-Einige Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Alle Mitgefühl ist Autopferung.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Autopferung.
-
-Alle Mitgefühl ist Spiritualität.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung Gerechtigkeit.
-
-Alle Mitgefühl ist Spiritualität.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Einige Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Alle Mitgefühl ist Autopferung.
-Einige Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Alle Tapferkeit ist Autopferung.
-Einige Tapferkeit ist Ehre.
-Also ist einige Ehre Autopferung.
-
-Alle Tapferkeit ist Spiritualität.
-Einige Tapferkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Alle Tapferkeit ist Ehre.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung Ehre.
-
-Alle Tapferkeit ist Spiritualität.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Alle Tapferkeit ist Ehre.
-Einige Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Alle Tapferkeit ist Autopferung.
-Einige Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Ehrlichkeit Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Mitgefühl Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Gerechtigkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Alle Gerechtigkeit ist Spiritualität.
-Einige Gerechtigkeit ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehrlichkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Ehre ist Tapferkeit.
-Also ist einige Tapferkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Ehre ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Ehre ist Spiritualität.
-Einige Ehre ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Mitgefühl Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Tapferkeit Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Autopferung ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Alle Autopferung ist Spiritualität.
-Einige Autopferung ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Einige Ehrlichkeit ist Ehre.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Ehre.
-
-Einige Ehrlichkeit ist Spiritualität.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Einige Ehrlichkeit ist Gerechtigkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre Gerechtigkeit.
-
-Einige Ehrlichkeit ist Spiritualität.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Einige Ehrlichkeit ist Gerechtigkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Einige Ehrlichkeit ist Ehre.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Einige Mitgefühl ist Autopferung.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Autopferung.
-
-Einige Mitgefühl ist Spiritualität.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Einige Mitgefühl ist Gerechtigkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung Gerechtigkeit.
-
-Einige Mitgefühl ist Spiritualität.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Einige Mitgefühl ist Gerechtigkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Einige Mitgefühl ist Autopferung.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Einige Tapferkeit ist Autopferung.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre Autopferung.
-
-Einige Tapferkeit ist Spiritualität.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Einige Tapferkeit ist Ehre.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung Ehre.
-
-Einige Tapferkeit ist Spiritualität.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Einige Tapferkeit ist Ehre.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Einige Tapferkeit ist Autopferung.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Einige Gerechtigkeit ist Ehrlichkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Ehrlichkeit.
-
-Einige Gerechtigkeit ist Mitgefühl.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Mitgefühl.
+Alle Spiritualität ist Aufopferung.
+Keine Ehrlichkeit ist Aufopferung.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
 Einige Gerechtigkeit ist Ehre.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Ehre.
 
-Einige Gerechtigkeit ist Autopferung.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
+Einige Gerechtigkeit ist Spiritualität.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Spiritualität.
 
-Einige Ehre ist Ehrlichkeit.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Ehrlichkeit.
+Einige Gerechtigkeit ist Aufopferung.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Mitgefühl Aufopferung.
 
-Einige Ehre ist Tapferkeit.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Tapferkeit.
+Einige Gerechtigkeit ist Spiritualität.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Mitgefühl Spiritualität.
 
 Einige Ehre ist Gerechtigkeit.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Gerechtigkeit.
 
-Einige Ehre ist Autopferung.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
+Einige Ehre ist Spiritualität.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Spiritualität.
 
-Einige Autopferung ist Mitgefühl.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Mitgefühl.
+Einige Ehre ist Aufopferung.
+Alle Ehre ist Tapferkeit.
+Also ist einige Tapferkeit Aufopferung.
 
-Einige Autopferung ist Tapferkeit.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Tapferkeit.
+Einige Ehre ist Spiritualität.
+Alle Ehre ist Tapferkeit.
+Also ist einige Tapferkeit Spiritualität.
 
-Einige Autopferung ist Gerechtigkeit.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
+Einige Aufopferung ist Gerechtigkeit.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Mitgefühl Gerechtigkeit.
 
-Einige Autopferung ist Ehre.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Ehre.
+Einige Aufopferung ist Spiritualität.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Mitgefühl Spiritualität.
+
+Einige Aufopferung ist Ehre.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Tapferkeit Ehre.
+
+Einige Aufopferung ist Spiritualität.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Tapferkeit Spiritualität.
 
 Keine Ehrlichkeit ist Mitgefühl.
 Einige Ehrlichkeit ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Mitgefühl.
 
-Keine Ehrlichkeit ist Tapferkeit.
+Keine Ehrlichkeit ist Aufopferung.
 Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
+Also ist einige Gerechtigkeit nicht Aufopferung.
 
 Keine Ehrlichkeit ist Tapferkeit.
 Einige Ehrlichkeit ist Ehre.
 Also ist einige Ehre nicht Tapferkeit.
 
-Keine Ehrlichkeit ist Autopferung.
+Keine Ehrlichkeit ist Aufopferung.
 Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Autopferung.
+Also ist einige Ehre nicht Aufopferung.
 
 Keine Ehrlichkeit ist Mitgefühl.
 Einige Ehrlichkeit ist Spiritualität.
@@ -1158,33 +670,25 @@ Keine Ehrlichkeit ist Tapferkeit.
 Einige Ehrlichkeit ist Spiritualität.
 Also ist einige Spiritualität nicht Tapferkeit.
 
-Keine Ehrlichkeit ist Autopferung.
+Keine Ehrlichkeit ist Aufopferung.
 Einige Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
+Also ist einige Spiritualität nicht Aufopferung.
 
 Keine Mitgefühl ist Ehrlichkeit.
 Einige Mitgefühl ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Mitgefühl ist Tapferkeit.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
 Keine Mitgefühl ist Ehre.
 Einige Mitgefühl ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehre.
 
-Keine Mitgefühl ist Ehrlichkeit.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
 Keine Mitgefühl ist Tapferkeit.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
+Einige Mitgefühl ist Aufopferung.
+Also ist einige Aufopferung nicht Tapferkeit.
 
 Keine Mitgefühl ist Ehre.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehre.
+Einige Mitgefühl ist Aufopferung.
+Also ist einige Aufopferung nicht Ehre.
 
 Keine Mitgefühl ist Ehrlichkeit.
 Einige Mitgefühl ist Spiritualität.
@@ -1202,25 +706,17 @@ Keine Tapferkeit ist Ehrlichkeit.
 Einige Tapferkeit ist Ehre.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Tapferkeit ist Mitgefühl.
-Einige Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
-
 Keine Tapferkeit ist Gerechtigkeit.
 Einige Tapferkeit ist Ehre.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Ehrlichkeit.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
 Keine Tapferkeit ist Mitgefühl.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
+Einige Tapferkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Mitgefühl.
 
 Keine Tapferkeit ist Gerechtigkeit.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Gerechtigkeit.
+Einige Tapferkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Gerechtigkeit.
 
 Keine Tapferkeit ist Ehrlichkeit.
 Einige Tapferkeit ist Spiritualität.
@@ -1235,664 +731,320 @@ Einige Tapferkeit ist Spiritualität.
 Also ist einige Spiritualität nicht Gerechtigkeit.
 
 Keine Gerechtigkeit ist Tapferkeit.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Keine Gerechtigkeit ist Tapferkeit.
 Einige Gerechtigkeit ist Ehre.
 Also ist einige Ehre nicht Tapferkeit.
 
 Keine Gerechtigkeit ist Tapferkeit.
-Einige Gerechtigkeit ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
+Einige Gerechtigkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Tapferkeit.
 
 Keine Gerechtigkeit ist Tapferkeit.
 Einige Gerechtigkeit ist Spiritualität.
 Also ist einige Spiritualität nicht Tapferkeit.
 
 Keine Ehre ist Mitgefühl.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Keine Ehre ist Mitgefühl.
-Einige Ehre ist Tapferkeit.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Keine Ehre ist Mitgefühl.
 Einige Ehre ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Mitgefühl.
 
 Keine Ehre ist Mitgefühl.
-Einige Ehre ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
+Einige Ehre ist Aufopferung.
+Also ist einige Aufopferung nicht Mitgefühl.
 
 Keine Ehre ist Mitgefühl.
 Einige Ehre ist Spiritualität.
 Also ist einige Spiritualität nicht Mitgefühl.
 
-Keine Autopferung ist Ehrlichkeit.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Autopferung ist Gerechtigkeit.
+Keine Aufopferung ist Ehrlichkeit.
+Einige Aufopferung ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Autopferung ist Ehrlichkeit.
-Einige Autopferung ist Ehre.
+Keine Aufopferung ist Ehrlichkeit.
+Einige Aufopferung ist Ehre.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Autopferung ist Ehrlichkeit.
-Einige Autopferung ist Spiritualität.
+Keine Aufopferung ist Ehrlichkeit.
+Einige Aufopferung ist Spiritualität.
 Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Einige Ehrlichkeit ist nicht Mitgefühl.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
-
-Einige Ehrlichkeit ist nicht Tapferkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Einige Ehrlichkeit ist nicht Ehre.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Ehre.
-
-Einige Ehrlichkeit ist nicht Autopferung.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Einige Ehrlichkeit ist nicht Spiritualität.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Spiritualität.
-
-Einige Ehrlichkeit ist nicht Mitgefühl.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
-
-Einige Ehrlichkeit ist nicht Tapferkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Tapferkeit.
-
-Einige Ehrlichkeit ist nicht Gerechtigkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Gerechtigkeit.
-
-Einige Ehrlichkeit ist nicht Autopferung.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Autopferung.
-
-Einige Ehrlichkeit ist nicht Spiritualität.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Spiritualität.
-
-Einige Ehrlichkeit ist nicht Mitgefühl.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Einige Ehrlichkeit ist nicht Tapferkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Einige Ehrlichkeit ist nicht Gerechtigkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
-
-Einige Ehrlichkeit ist nicht Ehre.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
-
-Einige Ehrlichkeit ist nicht Autopferung.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
-
-Einige Mitgefühl ist nicht Ehrlichkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Ehrlichkeit.
-
-Einige Mitgefühl ist nicht Tapferkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Einige Mitgefühl ist nicht Ehre.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Ehre.
-
-Einige Mitgefühl ist nicht Autopferung.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Einige Mitgefühl ist nicht Spiritualität.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Spiritualität.
-
-Einige Mitgefühl ist nicht Ehrlichkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
-Einige Mitgefühl ist nicht Tapferkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
-
-Einige Mitgefühl ist nicht Gerechtigkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Gerechtigkeit.
-
-Einige Mitgefühl ist nicht Ehre.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehre.
-
-Einige Mitgefühl ist nicht Spiritualität.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Spiritualität.
-
-Einige Mitgefühl ist nicht Ehrlichkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Einige Mitgefühl ist nicht Tapferkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Einige Mitgefühl ist nicht Gerechtigkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
-
-Einige Mitgefühl ist nicht Ehre.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
-
-Einige Mitgefühl ist nicht Autopferung.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
-
-Einige Tapferkeit ist nicht Ehrlichkeit.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Ehrlichkeit.
-
-Einige Tapferkeit ist nicht Mitgefühl.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
-
-Einige Tapferkeit ist nicht Gerechtigkeit.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Gerechtigkeit.
-
-Einige Tapferkeit ist nicht Autopferung.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Autopferung.
-
-Einige Tapferkeit ist nicht Spiritualität.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Spiritualität.
-
-Einige Tapferkeit ist nicht Ehrlichkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
-Einige Tapferkeit ist nicht Mitgefühl.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
-
-Einige Tapferkeit ist nicht Gerechtigkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Gerechtigkeit.
-
-Einige Tapferkeit ist nicht Ehre.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Ehre.
-
-Einige Tapferkeit ist nicht Spiritualität.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Spiritualität.
-
-Einige Tapferkeit ist nicht Ehrlichkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Einige Tapferkeit ist nicht Mitgefühl.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Einige Tapferkeit ist nicht Gerechtigkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
-
-Einige Tapferkeit ist nicht Ehre.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
-
-Einige Tapferkeit ist nicht Autopferung.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
-
-Einige Gerechtigkeit ist nicht Ehrlichkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Einige Gerechtigkeit ist nicht Mitgefühl.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Einige Gerechtigkeit ist nicht Tapferkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
 
 Einige Gerechtigkeit ist nicht Ehre.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Ehre.
 
-Einige Gerechtigkeit ist nicht Autopferung.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
+Einige Gerechtigkeit ist nicht Spiritualität.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Einige Ehre ist nicht Ehrlichkeit.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
+Einige Gerechtigkeit ist nicht Aufopferung.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Mitgefühl nicht Aufopferung.
 
-Einige Ehre ist nicht Mitgefühl.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Einige Ehre ist nicht Tapferkeit.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
+Einige Gerechtigkeit ist nicht Spiritualität.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Mitgefühl nicht Spiritualität.
 
 Einige Ehre ist nicht Gerechtigkeit.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Gerechtigkeit.
 
-Einige Ehre ist nicht Autopferung.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
+Einige Ehre ist nicht Spiritualität.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Einige Autopferung ist nicht Ehrlichkeit.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
+Einige Ehre ist nicht Aufopferung.
+Alle Ehre ist Tapferkeit.
+Also ist einige Tapferkeit nicht Aufopferung.
 
-Einige Autopferung ist nicht Mitgefühl.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
+Einige Ehre ist nicht Spiritualität.
+Alle Ehre ist Tapferkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Einige Autopferung ist nicht Tapferkeit.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
+Einige Aufopferung ist nicht Gerechtigkeit.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Mitgefühl nicht Gerechtigkeit.
 
-Einige Autopferung ist nicht Gerechtigkeit.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
+Einige Aufopferung ist nicht Spiritualität.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Einige Autopferung ist nicht Ehre.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
+Einige Aufopferung ist nicht Ehre.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Tapferkeit nicht Ehre.
 
-Keine Ehrlichkeit ist Mitgefühl.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
+Einige Aufopferung ist nicht Spiritualität.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
 
-Keine Ehrlichkeit ist Tapferkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
+Einige Spiritualität ist nicht Gerechtigkeit.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Gerechtigkeit.
 
-Keine Ehrlichkeit ist Autopferung.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
+Einige Spiritualität ist nicht Ehre.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Ehre.
 
-Keine Ehrlichkeit ist Mitgefühl.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
+Einige Spiritualität ist nicht Gerechtigkeit.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Mitgefühl nicht Gerechtigkeit.
 
-Keine Ehrlichkeit ist Tapferkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Tapferkeit.
+Einige Spiritualität ist nicht Aufopferung.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Mitgefühl nicht Aufopferung.
 
-Keine Ehrlichkeit ist Autopferung.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Autopferung.
+Einige Spiritualität ist nicht Ehre.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Tapferkeit nicht Ehre.
 
-Keine Ehrlichkeit ist Mitgefühl.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
+Einige Spiritualität ist nicht Aufopferung.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Tapferkeit nicht Aufopferung.
 
-Keine Ehrlichkeit ist Tapferkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Alle Mitgefühl ist Gerechtigkeit.
+Einige Spiritualität ist nicht Ehrlichkeit.
+Alle Spiritualität ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Mitgefühl ist Tapferkeit.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
+Einige Spiritualität ist nicht Mitgefühl.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Gerechtigkeit nicht Mitgefühl.
 
-Keine Mitgefühl ist Ehre.
-Alle Mitgefühl ist Gerechtigkeit.
+Einige Spiritualität ist nicht Ehre.
+Alle Spiritualität ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehre.
 
-Keine Mitgefühl ist Ehrlichkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Einige Spiritualität ist nicht Aufopferung.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Gerechtigkeit nicht Aufopferung.
 
-Keine Mitgefühl ist Tapferkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
-
-Keine Mitgefühl ist Ehre.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehre.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Keine Mitgefühl ist Tapferkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Mitgefühl ist Ehre.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Alle Tapferkeit ist Ehre.
+Einige Spiritualität ist nicht Ehrlichkeit.
+Alle Spiritualität ist Ehre.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Tapferkeit ist Mitgefühl.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
+Einige Spiritualität ist nicht Tapferkeit.
+Alle Spiritualität ist Ehre.
+Also ist einige Ehre nicht Tapferkeit.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Tapferkeit ist Ehre.
+Einige Spiritualität ist nicht Gerechtigkeit.
+Alle Spiritualität ist Ehre.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Ehrlichkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Einige Spiritualität ist nicht Aufopferung.
+Alle Spiritualität ist Ehre.
+Also ist einige Ehre nicht Aufopferung.
 
-Keine Tapferkeit ist Mitgefühl.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
+Einige Spiritualität ist nicht Mitgefühl.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung nicht Mitgefühl.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Gerechtigkeit.
+Einige Spiritualität ist nicht Tapferkeit.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung nicht Tapferkeit.
 
-Keine Tapferkeit ist Ehrlichkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
+Einige Spiritualität ist nicht Gerechtigkeit.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Mitgefühl.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
+Einige Spiritualität ist nicht Ehre.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung nicht Ehre.
 
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Gerechtigkeit.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
+Alle Spiritualität ist Ehre.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Ehre.
 
-Keine Ehre ist Mitgefühl.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
+Alle Spiritualität ist Gerechtigkeit.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Mitgefühl Gerechtigkeit.
 
-Keine Autopferung ist Ehrlichkeit.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
+Alle Spiritualität ist Aufopferung.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Mitgefühl Aufopferung.
 
-Alle Ehrlichkeit ist Ehre.
-Alle Ehrlichkeit ist Gerechtigkeit.
+Alle Spiritualität ist Ehre.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Tapferkeit Ehre.
+
+Alle Spiritualität ist Aufopferung.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Tapferkeit Aufopferung.
+
+Alle Spiritualität ist Ehre.
+Alle Spiritualität ist Gerechtigkeit.
 Also ist einige Gerechtigkeit Ehre.
 
-Alle Ehrlichkeit ist Spiritualität.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
+Alle Spiritualität ist Aufopferung.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Gerechtigkeit Aufopferung.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Alle Ehrlichkeit ist Ehre.
+Alle Spiritualität ist Gerechtigkeit.
+Alle Spiritualität ist Ehre.
 Also ist einige Ehre Gerechtigkeit.
 
-Alle Ehrlichkeit ist Spiritualität.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
+Alle Spiritualität ist Aufopferung.
+Alle Spiritualität ist Ehre.
+Also ist einige Ehre Aufopferung.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
+Alle Spiritualität ist Gerechtigkeit.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung Gerechtigkeit.
 
-Alle Ehrlichkeit ist Ehre.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
+Alle Spiritualität ist Ehre.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung Ehre.
 
-Alle Mitgefühl ist Autopferung.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Autopferung.
+Alle Ehre ist Ehrlichkeit.
+Keine Ehrlichkeit ist Mitgefühl.
+Also ist keine Mitgefühl Ehre.
 
-Alle Mitgefühl ist Spiritualität.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Keine Ehrlichkeit ist Tapferkeit.
+Also ist keine Tapferkeit Gerechtigkeit.
 
-Alle Mitgefühl ist Gerechtigkeit.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung Gerechtigkeit.
+Alle Aufopferung ist Mitgefühl.
+Keine Mitgefühl ist Ehrlichkeit.
+Also ist keine Ehrlichkeit Aufopferung.
 
-Alle Mitgefühl ist Spiritualität.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung Spiritualität.
+Alle Gerechtigkeit ist Mitgefühl.
+Keine Mitgefühl ist Tapferkeit.
+Also ist keine Tapferkeit Gerechtigkeit.
 
-Alle Mitgefühl ist Gerechtigkeit.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
+Alle Aufopferung ist Tapferkeit.
+Keine Tapferkeit ist Ehrlichkeit.
+Also ist keine Ehrlichkeit Aufopferung.
 
-Alle Mitgefühl ist Autopferung.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Alle Tapferkeit ist Autopferung.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre Autopferung.
-
-Alle Tapferkeit ist Spiritualität.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Alle Tapferkeit ist Ehre.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung Ehre.
-
-Alle Tapferkeit ist Spiritualität.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Alle Tapferkeit ist Ehre.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Alle Tapferkeit ist Autopferung.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Alle Ehrlichkeit ist Gerechtigkeit.
-Keine Gerechtigkeit ist Tapferkeit.
-Also ist keine Tapferkeit Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Keine Gerechtigkeit ist Tapferkeit.
-Also ist keine Tapferkeit Mitgefühl.
-
-Alle Ehrlichkeit ist Ehre.
-Keine Ehre ist Mitgefühl.
-Also ist keine Mitgefühl Ehrlichkeit.
-
-Alle Tapferkeit ist Ehre.
-Keine Ehre ist Mitgefühl.
-Also ist keine Mitgefühl Tapferkeit.
-
-Alle Mitgefühl ist Autopferung.
-Keine Autopferung ist Ehrlichkeit.
-Also ist keine Ehrlichkeit Mitgefühl.
-
-Alle Tapferkeit ist Autopferung.
-Keine Autopferung ist Ehrlichkeit.
-Also ist keine Ehrlichkeit Tapferkeit.
-
-Einige Ehre ist Ehrlichkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Ehre.
-
-Einige Spiritualität ist Ehrlichkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Einige Gerechtigkeit ist Ehrlichkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre Gerechtigkeit.
-
-Einige Spiritualität ist Ehrlichkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Einige Gerechtigkeit ist Ehrlichkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Einige Ehre ist Ehrlichkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Einige Autopferung ist Mitgefühl.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Autopferung.
-
-Einige Spiritualität ist Mitgefühl.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit Spiritualität.
-
-Einige Gerechtigkeit ist Mitgefühl.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung Gerechtigkeit.
-
-Einige Spiritualität ist Mitgefühl.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Einige Gerechtigkeit ist Mitgefühl.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
-
-Einige Autopferung ist Mitgefühl.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Einige Autopferung ist Tapferkeit.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre Autopferung.
-
-Einige Spiritualität ist Tapferkeit.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre Spiritualität.
-
-Einige Ehre ist Tapferkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung Ehre.
-
-Einige Spiritualität ist Tapferkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung Spiritualität.
-
-Einige Ehre ist Tapferkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
-
-Einige Autopferung ist Tapferkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Einige Ehrlichkeit ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Ehrlichkeit.
-
-Einige Mitgefühl ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Mitgefühl.
+Alle Ehre ist Tapferkeit.
+Keine Tapferkeit ist Mitgefühl.
+Also ist keine Mitgefühl Ehre.
 
 Einige Ehre ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Ehre.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Ehre.
 
-Einige Autopferung ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
-
-Einige Ehrlichkeit ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Ehrlichkeit.
-
-Einige Tapferkeit ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Tapferkeit.
+Einige Aufopferung ist Gerechtigkeit.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Mitgefühl Aufopferung.
 
 Einige Gerechtigkeit ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Gerechtigkeit.
 
-Einige Autopferung ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Autopferung.
+Einige Aufopferung ist Ehre.
+Alle Ehre ist Tapferkeit.
+Also ist einige Tapferkeit Aufopferung.
 
-Einige Mitgefühl ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Mitgefühl.
+Einige Gerechtigkeit ist Aufopferung.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Mitgefühl Gerechtigkeit.
 
-Einige Tapferkeit ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Tapferkeit.
+Einige Ehre ist Aufopferung.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Tapferkeit Ehre.
 
-Einige Gerechtigkeit ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Gerechtigkeit.
+Einige Gerechtigkeit ist Spiritualität.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Gerechtigkeit.
 
-Einige Ehre ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Ehre.
+Einige Ehre ist Spiritualität.
+Alle Spiritualität ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Ehre.
+
+Einige Gerechtigkeit ist Spiritualität.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Mitgefühl Gerechtigkeit.
+
+Einige Aufopferung ist Spiritualität.
+Alle Spiritualität ist Mitgefühl.
+Also ist einige Mitgefühl Aufopferung.
+
+Einige Ehre ist Spiritualität.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Tapferkeit Ehre.
+
+Einige Aufopferung ist Spiritualität.
+Alle Spiritualität ist Tapferkeit.
+Also ist einige Tapferkeit Aufopferung.
+
+Einige Ehre ist Spiritualität.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Gerechtigkeit Ehre.
+
+Einige Aufopferung ist Spiritualität.
+Alle Spiritualität ist Gerechtigkeit.
+Also ist einige Gerechtigkeit Aufopferung.
+
+Einige Gerechtigkeit ist Spiritualität.
+Alle Spiritualität ist Ehre.
+Also ist einige Ehre Gerechtigkeit.
+
+Einige Aufopferung ist Spiritualität.
+Alle Spiritualität ist Ehre.
+Also ist einige Ehre Aufopferung.
+
+Einige Gerechtigkeit ist Spiritualität.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung Gerechtigkeit.
+
+Einige Ehre ist Spiritualität.
+Alle Spiritualität ist Aufopferung.
+Also ist einige Aufopferung Ehre.
 
 Keine Mitgefühl ist Ehrlichkeit.
 Einige Ehrlichkeit ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Mitgefühl.
 
-Keine Tapferkeit ist Ehrlichkeit.
+Keine Aufopferung ist Ehrlichkeit.
 Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Einige Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
+Also ist einige Gerechtigkeit nicht Aufopferung.
 
 Keine Tapferkeit ist Ehrlichkeit.
 Einige Ehrlichkeit ist Ehre.
 Also ist einige Ehre nicht Tapferkeit.
 
-Keine Autopferung ist Ehrlichkeit.
+Keine Aufopferung ist Ehrlichkeit.
 Einige Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Autopferung.
+Also ist einige Ehre nicht Aufopferung.
 
 Keine Mitgefühl ist Ehrlichkeit.
 Einige Ehrlichkeit ist Spiritualität.
@@ -1902,33 +1054,25 @@ Keine Tapferkeit ist Ehrlichkeit.
 Einige Ehrlichkeit ist Spiritualität.
 Also ist einige Spiritualität nicht Tapferkeit.
 
-Keine Autopferung ist Ehrlichkeit.
+Keine Aufopferung ist Ehrlichkeit.
 Einige Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
+Also ist einige Spiritualität nicht Aufopferung.
 
 Keine Ehrlichkeit ist Mitgefühl.
 Einige Mitgefühl ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Tapferkeit ist Mitgefühl.
-Einige Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
 Keine Ehre ist Mitgefühl.
 Einige Mitgefühl ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehre.
 
-Keine Ehrlichkeit ist Mitgefühl.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
 Keine Tapferkeit ist Mitgefühl.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
+Einige Mitgefühl ist Aufopferung.
+Also ist einige Aufopferung nicht Tapferkeit.
 
 Keine Ehre ist Mitgefühl.
-Einige Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehre.
+Einige Mitgefühl ist Aufopferung.
+Also ist einige Aufopferung nicht Ehre.
 
 Keine Ehrlichkeit ist Mitgefühl.
 Einige Mitgefühl ist Spiritualität.
@@ -1946,25 +1090,17 @@ Keine Ehrlichkeit ist Tapferkeit.
 Einige Tapferkeit ist Ehre.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Mitgefühl ist Tapferkeit.
-Einige Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
-
 Keine Gerechtigkeit ist Tapferkeit.
 Einige Tapferkeit ist Ehre.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Keine Ehrlichkeit ist Tapferkeit.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
 Keine Mitgefühl ist Tapferkeit.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
+Einige Tapferkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Mitgefühl.
 
 Keine Gerechtigkeit ist Tapferkeit.
-Einige Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Gerechtigkeit.
+Einige Tapferkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Gerechtigkeit.
 
 Keine Ehrlichkeit ist Tapferkeit.
 Einige Tapferkeit ist Spiritualität.
@@ -1979,230 +1115,158 @@ Einige Tapferkeit ist Spiritualität.
 Also ist einige Spiritualität nicht Gerechtigkeit.
 
 Keine Tapferkeit ist Gerechtigkeit.
-Einige Gerechtigkeit ist Ehrlichkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
-
-Keine Tapferkeit ist Gerechtigkeit.
-Einige Gerechtigkeit ist Mitgefühl.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Keine Tapferkeit ist Gerechtigkeit.
 Einige Gerechtigkeit ist Ehre.
 Also ist einige Ehre nicht Tapferkeit.
 
 Keine Tapferkeit ist Gerechtigkeit.
-Einige Gerechtigkeit ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
+Einige Gerechtigkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Tapferkeit.
 
 Keine Tapferkeit ist Gerechtigkeit.
 Einige Gerechtigkeit ist Spiritualität.
 Also ist einige Spiritualität nicht Tapferkeit.
 
 Keine Mitgefühl ist Ehre.
-Einige Ehre ist Ehrlichkeit.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Keine Mitgefühl ist Ehre.
-Einige Ehre ist Tapferkeit.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Keine Mitgefühl ist Ehre.
 Einige Ehre ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Mitgefühl.
 
 Keine Mitgefühl ist Ehre.
-Einige Ehre ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
+Einige Ehre ist Aufopferung.
+Also ist einige Aufopferung nicht Mitgefühl.
 
 Keine Mitgefühl ist Ehre.
 Einige Ehre ist Spiritualität.
 Also ist einige Spiritualität nicht Mitgefühl.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Autopferung ist Mitgefühl.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Einige Autopferung ist Tapferkeit.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Keine Ehrlichkeit ist Autopferung.
-Einige Autopferung ist Gerechtigkeit.
+Keine Ehrlichkeit ist Aufopferung.
+Einige Aufopferung ist Gerechtigkeit.
 Also ist einige Gerechtigkeit nicht Ehrlichkeit.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Autopferung ist Ehre.
+Keine Ehrlichkeit ist Aufopferung.
+Einige Aufopferung ist Ehre.
 Also ist einige Ehre nicht Ehrlichkeit.
 
-Keine Ehrlichkeit ist Autopferung.
-Einige Autopferung ist Spiritualität.
+Keine Ehrlichkeit ist Aufopferung.
+Einige Aufopferung ist Spiritualität.
 Also ist einige Spiritualität nicht Ehrlichkeit.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Keine Gerechtigkeit ist Tapferkeit.
-Also ist einige Tapferkeit nicht Ehrlichkeit.
-
-Alle Mitgefühl ist Gerechtigkeit.
-Keine Gerechtigkeit ist Tapferkeit.
-Also ist einige Tapferkeit nicht Mitgefühl.
-
-Alle Ehrlichkeit ist Ehre.
-Keine Ehre ist Mitgefühl.
-Also ist einige Mitgefühl nicht Ehrlichkeit.
-
-Alle Tapferkeit ist Ehre.
-Keine Ehre ist Mitgefühl.
-Also ist einige Mitgefühl nicht Tapferkeit.
-
-Alle Mitgefühl ist Autopferung.
-Keine Autopferung ist Ehrlichkeit.
-Also ist einige Ehrlichkeit nicht Mitgefühl.
-
-Alle Tapferkeit ist Autopferung.
-Keine Autopferung ist Ehrlichkeit.
-Also ist einige Ehrlichkeit nicht Tapferkeit.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Mitgefühl.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Alle Ehrlichkeit ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Autopferung.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Alle Ehrlichkeit ist Ehre.
-Also ist einige Ehre nicht Autopferung.
-
-Keine Mitgefühl ist Ehrlichkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Keine Tapferkeit ist Ehrlichkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Autopferung ist Ehrlichkeit.
-Alle Ehrlichkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Autopferung.
-
+Alle Gerechtigkeit ist Ehrlichkeit.
 Keine Ehrlichkeit ist Mitgefühl.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Ehrlichkeit.
+Also ist einige Mitgefühl nicht Gerechtigkeit.
 
-Keine Tapferkeit ist Mitgefühl.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Alle Mitgefühl ist Gerechtigkeit.
-Also ist einige Gerechtigkeit nicht Ehre.
-
+Alle Spiritualität ist Ehrlichkeit.
 Keine Ehrlichkeit ist Mitgefühl.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Keine Tapferkeit ist Mitgefühl.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Alle Mitgefühl ist Autopferung.
-Also ist einige Autopferung nicht Ehre.
-
-Keine Ehrlichkeit ist Mitgefühl.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Keine Tapferkeit ist Mitgefühl.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
-Keine Ehre ist Mitgefühl.
-Alle Mitgefühl ist Spiritualität.
-Also ist einige Spiritualität nicht Ehre.
-
+Alle Ehre ist Ehrlichkeit.
 Keine Ehrlichkeit ist Tapferkeit.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Ehrlichkeit.
+Also ist einige Tapferkeit nicht Ehre.
 
+Alle Spiritualität ist Ehrlichkeit.
+Keine Ehrlichkeit ist Tapferkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
+
+Alle Gerechtigkeit ist Ehrlichkeit.
+Keine Ehrlichkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Gerechtigkeit.
+
+Alle Ehre ist Ehrlichkeit.
+Keine Ehrlichkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Ehre.
+
+Alle Spiritualität ist Ehrlichkeit.
+Keine Ehrlichkeit ist Aufopferung.
+Also ist einige Aufopferung nicht Spiritualität.
+
+Alle Gerechtigkeit ist Mitgefühl.
+Keine Mitgefühl ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Gerechtigkeit.
+
+Alle Spiritualität ist Mitgefühl.
+Keine Mitgefühl ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
+
+Alle Aufopferung ist Mitgefühl.
 Keine Mitgefühl ist Tapferkeit.
-Alle Tapferkeit ist Ehre.
-Also ist einige Ehre nicht Mitgefühl.
+Also ist einige Tapferkeit nicht Aufopferung.
 
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Tapferkeit ist Ehre.
+Alle Spiritualität ist Mitgefühl.
+Keine Mitgefühl ist Tapferkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
+
+Alle Gerechtigkeit ist Mitgefühl.
+Keine Mitgefühl ist Ehre.
 Also ist einige Ehre nicht Gerechtigkeit.
 
-Keine Ehrlichkeit ist Tapferkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Ehrlichkeit.
-
-Keine Mitgefühl ist Tapferkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Mitgefühl.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Tapferkeit ist Autopferung.
-Also ist einige Autopferung nicht Gerechtigkeit.
-
-Keine Ehrlichkeit ist Tapferkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
-
-Keine Mitgefühl ist Tapferkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
-
-Keine Gerechtigkeit ist Tapferkeit.
-Alle Tapferkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Gerechtigkeit.
-
-Keine Tapferkeit ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität nicht Tapferkeit.
-
+Alle Aufopferung ist Mitgefühl.
 Keine Mitgefühl ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität nicht Mitgefühl.
+Also ist einige Ehre nicht Aufopferung.
 
-Keine Ehrlichkeit ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität nicht Ehrlichkeit.
+Alle Spiritualität ist Mitgefühl.
+Keine Mitgefühl ist Ehre.
+Also ist einige Ehre nicht Spiritualität.
 
-Alle Ehrlichkeit ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Ehrlichkeit.
+Alle Ehre ist Tapferkeit.
+Keine Tapferkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Ehre.
 
-Alle Mitgefühl ist Gerechtigkeit.
-Alle Gerechtigkeit ist Spiritualität.
-Also ist einige Spiritualität Mitgefühl.
+Alle Spiritualität ist Tapferkeit.
+Keine Tapferkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
 
-Alle Ehrlichkeit ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Ehrlichkeit.
+Alle Aufopferung ist Tapferkeit.
+Keine Tapferkeit ist Mitgefühl.
+Also ist einige Mitgefühl nicht Aufopferung.
 
-Alle Tapferkeit ist Ehre.
-Alle Ehre ist Spiritualität.
-Also ist einige Spiritualität Tapferkeit.
+Alle Spiritualität ist Tapferkeit.
+Keine Tapferkeit ist Mitgefühl.
+Also ist einige Mitgefühl nicht Spiritualität.
 
-Alle Mitgefühl ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Mitgefühl.
+Alle Ehre ist Tapferkeit.
+Keine Tapferkeit ist Gerechtigkeit.
+Also ist einige Gerechtigkeit nicht Ehre.
 
-Alle Tapferkeit ist Autopferung.
-Alle Autopferung ist Spiritualität.
-Also ist einige Spiritualität Tapferkeit.
+Alle Aufopferung ist Tapferkeit.
+Keine Tapferkeit ist Gerechtigkeit.
+Also ist einige Gerechtigkeit nicht Aufopferung.
+
+Alle Spiritualität ist Tapferkeit.
+Keine Tapferkeit ist Gerechtigkeit.
+Also ist einige Gerechtigkeit nicht Spiritualität.
+
+Alle Spiritualität ist Gerechtigkeit.
+Keine Gerechtigkeit ist Tapferkeit.
+Also ist einige Tapferkeit nicht Spiritualität.
+
+Alle Spiritualität ist Ehre.
+Keine Ehre ist Mitgefühl.
+Also ist einige Mitgefühl nicht Spiritualität.
+
+Alle Spiritualität ist Aufopferung.
+Keine Aufopferung ist Ehrlichkeit.
+Also ist einige Ehrlichkeit nicht Spiritualität.
+
+Alle Spiritualität ist Gerechtigkeit.
+Alle Gerechtigkeit ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Spiritualität.
+
+Alle Spiritualität ist Gerechtigkeit.
+Alle Gerechtigkeit ist Mitgefühl.
+Also ist einige Mitgefühl Spiritualität.
+
+Alle Spiritualität ist Ehre.
+Alle Ehre ist Ehrlichkeit.
+Also ist einige Ehrlichkeit Spiritualität.
+
+Alle Spiritualität ist Ehre.
+Alle Ehre ist Tapferkeit.
+Also ist einige Tapferkeit Spiritualität.
+
+Alle Spiritualität ist Aufopferung.
+Alle Aufopferung ist Mitgefühl.
+Also ist einige Mitgefühl Spiritualität.
+
+Alle Spiritualität ist Aufopferung.
+Alle Aufopferung ist Tapferkeit.
+Also ist einige Tapferkeit Spiritualität.
 

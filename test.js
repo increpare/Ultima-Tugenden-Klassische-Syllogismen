@@ -28,7 +28,7 @@ var Figuren = {
 	4: [ [P,M] , [M,S] , [S,P]],
 }
 
-function all_are(a,b){
+function all_are(b,a){
 	for (var i=0;i<a.length;i++){
 		var el = a[i];
 		if (b.indexOf(el)<0){
@@ -39,7 +39,7 @@ function all_are(a,b){
 }
 
 
-function no_are(a,b){
+function no_are(b,a){
 	for (var i=0;i<a.length;i++){
 		var el = a[i];
 		if (b.indexOf(el)>=0){
@@ -49,7 +49,7 @@ function no_are(a,b){
 	return true;
 }
 
-function some_are(a,b){
+function some_are(b,a){
 	var some=false;
 	for (var i=0;i<a.length;i++){
 		var el = a[i];
@@ -61,7 +61,7 @@ function some_are(a,b){
 }
 
 
-function some_are_not(a,b){
+function some_are_not(b,a){
 	var some_are_not=false;
 	for (var i=0;i<a.length;i++){
 		var el = a[i];
@@ -81,10 +81,10 @@ function erfüllst(a,b,q){
 			return no_are(a,b);
 		break;
 		case I:
-			return some_are(a,b);
+			return some_are(a,b) && !all_are(a,b);
 		break;
 		case O:
-			return some_are_not(a,b);
+			return some_are_not(a,b) && some_are(a,b);
 		break;
 		default:
 			console.error("GAH");
@@ -132,7 +132,7 @@ var COMPASSION = "Mitgefühl"
 var VALOR = "Tapferkeit"
 var JUSTICE = "Gerechtigkeit"
 var HONOR = "Ehre"
-var SACRIFICE = "Autopferung"
+var SACRIFICE = "Aufopferung"
 var SPIRITUALITY = "Spiritualität"
 // var HUMILITY = "Demut"
 
